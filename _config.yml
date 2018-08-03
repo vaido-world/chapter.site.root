@@ -10,6 +10,12 @@ avatar: /assets/images/avatar.jpg
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
 
+assets:
+    sources:
+        - _assets/images          
+        - _assets/stylesheets          
+        - _assets/images/slides
+
 # Social settings
 facebook_url:
 github_url:
@@ -19,5 +25,10 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+
+# Google Analytics Tracking ID goes here:
+google_analytics:
+
+plugins: [ jekyll-assets ]
 
 collections: [sections]
