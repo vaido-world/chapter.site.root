@@ -25,8 +25,15 @@ google_fonts: "Fjalla+One|Roboto"
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://template.tzm.community" # the base hostname & protocol for your site
 
+# View an message that will be show on every page
+show_alert: true
+
+# Alert text that will be show on every page
+alert_text: This is currently an example template page. TZMCommunity template engine is a way to create sites that are well performing and easy to setup. Check out docs here <a href="https://tzmcommunity.github.io/docs/">https://tzmcommunity.github.io/docs/</a>
+
+# Assets
 assets:
     sources:
         - _assets/images          
@@ -46,7 +53,7 @@ twitter_url:
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
-plugins: [ jekyll-assets, jekyll-seo-tag, jekyll-toc ]
+plugins: [ jekyll-assets, jekyll-seo-tag, jekyll-toc, jekyll-sitemap, jekyll-feed ]
 
 collections: 
     events:
@@ -57,6 +64,9 @@ excerpt_separator: "<!--more-->"
 
 # if true, post excerpts will be shown in home page
 show_posts_on_homepage: true
+
+# if true, posts will be shown in two columns
+posts_two_col: true
 
 # if true, links to events will be shown in home page
 show_events_on_homepage: true

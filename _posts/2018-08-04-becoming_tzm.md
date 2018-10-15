@@ -2,13 +2,13 @@
 layout: post
 
 # post title
-title: Becoming The Zeitgeist Movement
+title: Becoming TZM
 
 # post author
 author: Juuso
 
 # hide post
-hidden: true
+hide: true
 ---
 
 >Sometimes the slightest things change the directions of our lives, the merest breath of a circumstance, a random moment that connects like a meteorite striking the earth. Lives have swiveled and changed direction on the strength of a chance remark. 

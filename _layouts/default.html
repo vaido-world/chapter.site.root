@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
+  {% include base.html %}
+
   {% include head.html %}
   <body>
-    {% include navbar.html %}
+  	{% include navbar.html %}
+  	{% if site.show_alert %}  
+        {% include alert.html %}
+    {% endif %}
     {% include post_nav.html %}
     <div class="container">
       {{ content }}
