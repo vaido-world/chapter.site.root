@@ -1,16 +1,22 @@
 ---
 layout: home
 bootstrap: true
-
-# title
-postnav_title: "TZM Community pages"
-
-# second title
-postnav_subtitle: ""
-
-# home page header image
+postnav_title: TZM Community pages
+postnav_subtitle: ''
 header_image: "/assets/img/spring.jpg"
-
-# if header height is reduced
 slim_header: true
+
 ---
+## Sites currently available
+
+[https://template.tzm.community/](https://template.tzm.community/ "https://template.tzm.community/")
+
+[https://tzmcommunity.github.io/docs](https://tzmcommunity.github.io/docs "https://tzmcommunity.github.io/docs")
+
+[https://test.tzm.community/](https://test.tzm.community/ "https://test.tzm.community/")
+
+[https://rbeedu.tzm.community/](https://rbeedu.tzm.community/ "https://rbeedu.tzm.community/")
+
+[https://news.tzm.community/](https://news.tzm.community/ "https://news.tzm.community/")
+
+[https://materials.tzm.community/](https://materials.tzm.community/ "https://materials.tzm.community/")
