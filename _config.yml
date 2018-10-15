@@ -1,8 +1,8 @@
 # site title
-title: TZM Chapters test site
+title: TZM Community pages
 
 # site subtitle
-subtitle: testing... testing...
+subtitle: 
 
 # site description
 description: >- # this means to ignore newlines until "baseurl:"
@@ -15,7 +15,7 @@ author: Zeitgeist movement
 email: your-email@example.com
 
 # site avatar
-avatar: /assets/images/avatar.jpg
+avatar: /assets/images/spring.jpg
 
 # footer text
 footer_text: The Zeitgeist Movement
@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://template.tzm.community" # the base hostname & protocol for your site
 
 # View an message that will be show on every page
-show_alert: true
+show_alert: false
 
 # Alert text that will be show on every page
 alert_text: This is currently an example template page. TZMCommunity template engine is a way to create sites that are well performing and easy to setup. Check out docs here <a href="https://tzmcommunity.github.io/docs/">https://tzmcommunity.github.io/docs/</a>
@@ -69,7 +69,7 @@ show_posts_on_homepage: true
 posts_two_col: true
 
 # if true, links to events will be shown in home page
-show_events_on_homepage: true
+show_events_on_homepage: false
 
 defaults:
   - scope:
