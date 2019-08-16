@@ -4,6 +4,7 @@ title: Events
 permalink: /events/
 tags: [Events, Archive]
 order: 4
+hide: true
 ---
 Events placeholder
 
