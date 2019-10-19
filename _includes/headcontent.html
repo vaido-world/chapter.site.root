@@ -19,7 +19,7 @@
     {% if page.nostyle %}
     {% else %}
     <!-- Bootstrap 4 isolation CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ base }}/assets/vendor/bootstrap/css/bootstrap.min.css" crossorigin="anonymous">
     
     {% endif %}
    
@@ -30,9 +30,11 @@
    	<!-- CSS -->
     <link rel="stylesheet" href="{{ base }}/assets/css/main.css">
  
-    <!-- Google Fonts {{ site.google_fonts }} -->
     {% if site.google_fonts %}
+    <!-- Google Fonts {{ site.google_fonts }} -->
     <link href="//fonts.googleapis.com/css?family={{ site.google_fonts }}" rel="stylesheet" type="text/css"> 
+	{% else %}
+    <link rel="stylesheet" href="{{ base }}/assets/css/{{ site.local_fonts }}.css">	
     {% endif %}
     
     {% if page.use_gallery %}
