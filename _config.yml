@@ -9,7 +9,7 @@ chapter_name: Shire
 
 # site description
 description: >- # this means to ignore newlines until "baseurl:"
-  Template for the Zeigeist Movement Chapter site.
+  TZM Community sites.
 
 # site author
 author: Zeitgeist movement
@@ -31,7 +31,7 @@ local_fonts: "fonts1"
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://template.tzm.community" # the base hostname & protocol for your site
+url: "https://tzm.community" # the base hostname & protocol for your site
 
 # View an message that will be show on every page
 show_alert: false
