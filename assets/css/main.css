@@ -212,6 +212,10 @@ body {
 	color: #6c757d!important;
 }
 
+.thumbnail img {
+  width: 100%;  
+}
+
 .card {
   	height: 100%;
 }
