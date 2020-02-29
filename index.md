@@ -15,6 +15,6 @@ postnav_link: "about"
 postnav_linktext: "Learn more"
 
 # home page header image
-header_image: "/assets/img/home-bg.jpg"
+header_image: "/assets/img/autumn-219972_1280.jpg"
 
 ---
