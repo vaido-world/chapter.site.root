@@ -70,7 +70,7 @@ body {
   }
 
   .site-header h2 {
-	font-size: 2.0rem;	
+	 font-size: 2.0rem;	
   }
   
  .sidepanel-col {
@@ -288,10 +288,6 @@ blockquote {
 }
 
 @media (min-width: 576px) {
-	.news_widget {
-		display: none;	
-	}
-
 	.news_widget iframe {
 		height: 200px;
 	}
