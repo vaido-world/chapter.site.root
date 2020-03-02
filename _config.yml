@@ -66,7 +66,10 @@ tzm_global_youtube_url: "https://www.youtube.com/user/TZMOfficialChannel"
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
-plugins: [ jekyll-assets, jekyll-seo-tag, jekyll-toc, jekyll-sitemap, jekyll-feed ]
+jekyll-minifier:
+  compress_javascript: false
+
+plugins: [ jekyll-assets, jekyll-seo-tag, jekyll-toc, jekyll-sitemap, jekyll-feed, jekyll-minifier ]
 
 collections:
     events:
