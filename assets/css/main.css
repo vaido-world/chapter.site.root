@@ -207,7 +207,7 @@ body {
 }
 
 .events {
-	margin-top: 20px;	
+	margin-top: 00px;	
 	margin-bottom: 20px;
 }
 
@@ -236,12 +236,8 @@ body {
 	width: 100%;
 }
 
-.posts {
-	margin-top: 50px;
-}
-
-.posts  {
-	margin-top: 20px;
+.posts_row  {
+	margin-bottom: 10px;
 }
 
 .posts .col-md-6 {

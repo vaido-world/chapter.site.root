@@ -76,7 +76,7 @@ collections:
 excerpt_separator: "<!--more-->"
 
 # if true, index content shown in home page
-show_content_on_homepage: true
+show_content_on_homepage: false
 
 # if true, post excerpts will be shown in home page
 show_posts_on_homepage: true
