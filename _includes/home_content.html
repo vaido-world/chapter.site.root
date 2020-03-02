@@ -9,7 +9,11 @@
 
   <!-- EVENTS -->
   {% if site.show_events_on_homepage %}
-  {% include events.html %}
+  <div class="row mb-2 posts">
+     <div class="col-md-12 home_content">
+      {% include events.html %}
+     </div>
+  </div>
   {% endif %}
   <!-- END OF EVENTS -->
 
