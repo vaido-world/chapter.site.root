@@ -37,10 +37,22 @@ body {
 	 font-size: 1.5rem;	
   }
   
- .col-lg-8, .col-lg-4 {
-   margin: 0px;
-   padding-left: 0px;
-   padding-right: 0px;
+  .sidepanel-col {
+    display: none;
+  }
+  
+  .posts card {
+    margin: 10px;
+  }
+  
+  .posts .col-md-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  
+  .col-lg-8 {
+    padding-left: 0px;
+    padding-right: 0px;    
   }
 }
 
@@ -62,7 +74,7 @@ body {
   }
   
  .sidepanel-col {
-    display: inline;
+    display: initial;
   }
 
 }
@@ -83,6 +95,17 @@ body {
   .site-header h2 {
 	font-size: 3.0rem;	
   }
+
+  .posts .col-md-12 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .col-lg-8 {
+    padding-left: 15px;
+    padding-right: 15px;    
+  }
+
 }
 
 @media (min-width: 992px) {
@@ -171,12 +194,7 @@ body {
 
 }
 
-.jumbotron .container {
-  background-color: rgba(255, 255, 255, 0.35);
-}
-
 .jumbotron h1 {
-  margin-top: 15px;
   font-size: 300%;  
 }
 
@@ -218,17 +236,12 @@ body {
 	margin-top: 50px;
 }
 
-.posts .col-md-12 {
+.posts  {
 	margin-top: 20px;
 }
 
 .posts .col-md-6 {
 	margin-top: 20px;
-}
-
-.posts .card {
-	font-size: 100%;
-	padding: 20px;
 }
 
 .posts .card .meta {
@@ -319,8 +332,6 @@ blockquote {
 	margin-top: 10px;	
 }
 
-// GALLERY
-
 .gallery-title
 {
     font-size: 36px;
@@ -397,10 +408,6 @@ blockquote {
 
 .row {
   	margin: 0px;  
-}
-
-.box {
-	border-
 }
 
 .page-footer {
