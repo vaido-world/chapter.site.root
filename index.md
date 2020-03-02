@@ -9,7 +9,7 @@ postnav_title: "The Zeitgeist Movement"
 postnav_subtitle: "Shire Chapter"
 
 # second link
-postnav_link: "about"
+postnav_link: "abouttzm"
 
 # second linktext
 postnav_linktext: "Learn more"
