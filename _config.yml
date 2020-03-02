@@ -71,6 +71,8 @@ jekyll-minifier:
 
 plugins: [ jekyll-assets, jekyll-seo-tag, jekyll-toc, jekyll-sitemap, jekyll-feed, jekyll-minifier ]
 
+exclude: [ "node_modules" ]
+
 collections:
     events:
         output: true
