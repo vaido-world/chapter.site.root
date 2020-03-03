@@ -32,6 +32,9 @@ jobs:
           paths:
             - vendor/bundle
       - run:
+          name: bundle
+          command: bash bundle.sh
+      - run:
           name: Jekyll build
           command: bundle exec jekyll build --trace
       - persist_to_workspace:
