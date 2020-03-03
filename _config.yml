@@ -110,6 +110,12 @@ sidepanel_news: true
 # news widget url
 news_widget_url: "https://news.tzm.community/widget.html"
 
+# five transitions
+show_five_transitions: true
+
+# world without money
+show_world_without_money: true
+
 # are menu titles are clickable links or do they open a menu
 # false works better for mobile clients.
 menu_clickable: false
