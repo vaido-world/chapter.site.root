@@ -314,6 +314,11 @@ body {
   color: #343a40!important;
 }
 
+.post_thumbnail {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
 .toc-entry a {
   color: #343a40!important;
 }
