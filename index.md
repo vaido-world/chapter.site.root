@@ -36,6 +36,20 @@ More details here [projects](projects/)
 {% endfor %}
 </ul>
 
+
+## Links
+<ul>
+{% for link in site.links %}
+
+   <li>
+     <a href="{{ base }}{{ link.url }}">
+       {{ link.title }}
+     </a>
+   </li>
+
+{% endfor %}
+</ul>
+
 ## Community websites
 
 ### Branches

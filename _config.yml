@@ -78,6 +78,8 @@ collections:
         output: true
     projects:
         output: true
+    links:
+        output: true
 
 # where to cut a page when showing only excerpt
 excerpt_separator: "<!--more-->"
