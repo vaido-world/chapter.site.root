@@ -26,6 +26,8 @@ Finnish chapter is taking care of the updates. If you have a project you would l
           </a>
         </h3>       
         {{ project.excerpt }}
+        
+        <a href="{{ base }}{{ project.url }}">Read more</a>
     </div>
 </div>
 
