@@ -457,6 +457,34 @@ blockquote {
 .page-footer {
     margin-top: 30px;
     background-color: #f0f0f0;
+    display: table;
+  width: 100%;
+  color: rgba(0,0,0,.7);
+}
+
+.footer-copyright {
+   background-color: #e0e0e0;
+}
+
+.footer_links {
+  font-size: 90%;
+  padding: 0px;
+}
+
+.page-footer a {
+    color: rgba(0,0,0,.7)!important;  
+}
+
+.footer_title {
+    display: table-cell;
+}
+
+.footer_links .container {
+    width: 100%;
+}
+
+.footer_links ul {
+  margin: 0px;
 }
 
 .dropdown-menu {
