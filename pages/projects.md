@@ -18,14 +18,16 @@ Finnish chapter is taking care of the updates. If you have a project you would l
 
 {% for project in site.projects %}
 
-   <div class="project_in_list">
-       <h3>
-         <a href="{{ base }}{{ project.url }}">
-           {{ project.title }}
-         </a>
-       </h3>       
-       {{ project.excerpt }}
-   </div>
+<div class="project_in_list">
+    <div class="card project_card">
+        <h3>
+          <a href="{{ base }}{{ project.url }}">
+            {{ project.title }}
+          </a>
+        </h3>       
+        {{ project.excerpt }}
+    </div>
+</div>
 
 {% endfor %}
 

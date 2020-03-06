@@ -17,3 +17,12 @@ An easy to way to create a website for your branch. These websites are hosted on
 
 <!--more-->
 
+## Project
+
+### Activity
+
+Update 2020-03-06: In active use and development
+
+### Contact
+
+Juuso Vilmunen, tzm_developers

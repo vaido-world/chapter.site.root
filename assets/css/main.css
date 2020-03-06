@@ -506,3 +506,7 @@ blockquote {
 .project_in_list h2 {
 	font-size: 140%;
 }
+
+.project_card {
+    margin-bottom: 20px;
+}
