@@ -498,3 +498,11 @@ blockquote {
 .wp-block-image img {
   width: 100%;
 }
+
+.project_in_list h3 a {
+    color: rgba(0,0,0,.7)!important;
+}
+
+.project_in_list h2 {
+	font-size: 140%;
+}

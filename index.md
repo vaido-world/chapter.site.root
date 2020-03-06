@@ -22,6 +22,8 @@ header_image: "/assets/img/autumn-219972_1280.jpg"
 ---
 ## Projects
 
+More details here [projects](projects/)
+
 <ul>
 {% for project in site.projects %}
 
