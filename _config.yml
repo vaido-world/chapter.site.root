@@ -1,5 +1,5 @@
 # site title
-title: TZM Community pages
+title: Zeitgeist Movement Community pages
 
 # site subtitle
 subtitle: 
@@ -15,7 +15,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Zeitgeist movement
 
 # site contact email
-email: your-email@example.com
+email: info@tzm.community
 
 # site avatar
 avatar: /assets/images/spring.jpg
