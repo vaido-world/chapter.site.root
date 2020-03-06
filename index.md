@@ -3,7 +3,7 @@ layout: home
 bootstrap: true
 
 # title
-postnav_title: TZM Community pages
+postnav_title: Zeitgeist Movement Community pages
 
 # second title
 postnav_subtitle: ''
