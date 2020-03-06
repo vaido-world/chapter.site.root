@@ -20,22 +20,29 @@ postnav_linktext: "Learn more"
 header_image: "/assets/img/autumn-219972_1280.jpg"
 
 ---
-## Sites currently available
+## Projects
 
-### News
+<ul>
+{% for project in site.projects %}
 
-[https://news.tzm.community/](https://news.tzm.community/ "https://news.tzm.community/")
+   <li>
+     <a href="{{ base }}{{ project.url }}">
+       {{ project.title }}
+     </a>
+   </li>
 
+{% endfor %}
+</ul>
 
-### Transtion paths
+## Community websites
 
-[https://transition-paths.tzm.community/](https://transition-paths.tzm.community/ "https://transition-paths.tzm.community/")
+### Branches
 
-### RBE-EDU
-
-[https://rbeedu.tzm.community/](https://rbeedu.tzm.community/ "https://rbeedu.tzm.community/")
+Finland [https://tzm.fi](https://tzm.fi)
 
 ### Other
+
+[https://news.tzm.community/](https://news.tzm.community/ "https://news.tzm.community/")
 
 [https://materials.tzm.community/](https://materials.tzm.community/ "https://materials.tzm.community/")
 
