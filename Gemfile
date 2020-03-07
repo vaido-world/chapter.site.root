@@ -18,3 +18,4 @@ gem "jekyll-minifier"
 gem "jekyll", "~> 4.0"
 
 gem "html-proofer"
+gem "json"
