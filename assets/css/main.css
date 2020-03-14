@@ -17,6 +17,10 @@ body {
     font-family: 'Fjalla One', sans-serif;
 }
 
+article {
+  padding: 15px;  
+}
+
 .alert {
     margin-top: 0px;    
     width: 100%;
