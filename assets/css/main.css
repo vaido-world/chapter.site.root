@@ -1,7 +1,7 @@
 
 body {
     padding-top: 54px;
-    color: #323240;
+    color: rgba(0,0,0,.7)!important;
     line-height: 1.4;
 }
 
@@ -15,6 +15,7 @@ body {
 
 .container h1, .container h2, .container h3 {
     font-family: 'Fjalla One', sans-serif;
+    color: rgba(0,0,0,.7)!important;
 }
 
 article {
@@ -319,6 +320,7 @@ article {
 
 .thumbnail img {
   width: 100%;  
+  margin-bottom: 10px;
 }
 
 .card {
@@ -331,7 +333,7 @@ article {
 }
 
 .post-link {
-  color: #343a40!important;
+    color: rgba(0,0,0,.7)!important;
 }
 
 .post_thumbnail {
@@ -340,7 +342,7 @@ article {
 }
 
 .toc-entry a {
-  color: #343a40!important;
+  color: rgba(0,0,0,.7)!important;
 }
 
 blockquote {
