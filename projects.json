@@ -35,7 +35,8 @@ permalink: projects.json
             "summary": {{ project.excerpt | jsonify }},
             "content_html": {{ project.content | jsonify }},
             "tags": {{ project.tags | jsonify }},
-            "image": "{{ project.image | absolute_url }}"
+            "image": "{{ project.image | absolute_url }}",
+            "hide": {{ project.hide | jsonify }}
         }{% if forloop.last == false %},{% endif %}
         {% endfor %}
     ]
