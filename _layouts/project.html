@@ -19,7 +19,20 @@ layout: default
   {% if page.bootstrap %}
   <div class="bootstrap-iso">
   {% endif %}
+  
 	{{ content | toc }}
+	
+	<h2>The project</h2>
+
+    <h3>Help needed</h3>
+    <p>{{ page.help_needed }}</p>
+    
+	<h3>Activity</h3>
+	<p>{{ page.activity }}</p>
+
+    <h3>Contact</h3>
+    <p>{{ page.contact }}</p>
+    
   {% if page.bootstrap %}
   </div>
   {% endif %}

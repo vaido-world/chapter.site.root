@@ -33,6 +33,9 @@ permalink: projects.json
                 "url": "{{ site.url }}"
             },
             "summary": {{ project.excerpt | jsonify }},
+            "help_needed": {{ project.help_needed | jsonify }},
+            "activity": {{ project.activity | jsonify }},
+            "contact": {{ project.contact | jsonify }},            
             "content_html": {{ project.content | jsonify }},
             "tags": {{ project.tags | jsonify }},
             "image": "{{ project.image | absolute_url }}",

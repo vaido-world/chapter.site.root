@@ -11,6 +11,13 @@ full_image: "/assets/scaled/koto_coop.png"
 # wether page and link to it is shown
 hide: false
 
+help_needed: >
+    More information is shared on our telegram group.
+activity: >
+    Update 2020-03-06: Koto is currenly the main project run by Finnish branch.
+contact: >
+    tzm.fi
+
 ---
 
 ## The idea
@@ -33,17 +40,3 @@ Participation share will grant you right to live in any of the units and move to
 #### Other types
 For example a group of people living in a city, working together to gather resources for the co-op, taking care of a comunity garden and getting resources from co-op like for example food products. 
 
-
-## The project
-
-### Help needed
-
-More information is shared on our telegram group.
-
-### Activity
-
-Update 2020-03-06: Koto is currenly the main project run by Finnish branch.
-
-### Contact
-
-tzm.fi

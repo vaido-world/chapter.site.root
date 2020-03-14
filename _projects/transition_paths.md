@@ -11,6 +11,13 @@ title: Transition paths
 # wether page and link to it is shown
 hide: false
 
+help_needed: >
+    Writing articles and adding nodes to network."
+activity: >
+    Update 2020-03-06: Latest article written in January 2020.
+contact: >
+    Juuso Vilmunen
+
 ---
 
 ## The idea
@@ -34,15 +41,3 @@ We started this project in November 2019. Please bear with us while gather data 
 [https://github.com/TZMCommunity/transition-paths-data](https://github.com/TZMCommunity/transition-paths)
 
 [https://github.com/TZMCommunity/transition-paths](https://github.com/TZMCommunity/transition-paths)
-
-### Help needed
-
-Writing articles and adding nodes to network.
-
-### Activity
-
-Update 2020-03-06: Latest article written in January 2020.
-
-### Contact
-
-Juuso Vilmunen

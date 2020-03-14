@@ -11,6 +11,13 @@ title: RBE-Edu
 # wether page and link to it is shown
 hide: false
 
+help_needed: >
+    Creating more courses and reviewing the old ones
+activity: >
+    Update 2020-03-06: All the content has been added to transition-paths project and currently the project isn't active.
+contact: >
+    tzm.fi
+
 ---
 
 ## The idea
@@ -29,14 +36,3 @@ The is currently two courses you can go through.
 
 Finnish chapter started this project a few years ago.  
 
-### Help needed
-
-Creating more courses and reviewing the old ones
-
-### Activity
-
-Update 2020-03-06: All the content has been added to transition-paths project and currently the project isn't active.
-
-### Contact
-
-tzm.fi

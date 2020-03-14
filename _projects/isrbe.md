@@ -11,6 +11,13 @@ title: RBE Information System
 # wether page and link to it is shown
 hide: false
 
+activity: >
+    Update 2020-03-06: Last update has been done two months ago. Still active.
+contact: >
+    Michal Mauser
+help_needed: >
+    Contributions and testing is welcome.
+
 ---
 
 ## The idea
@@ -25,16 +32,4 @@ The present data model supports locations, unlimited number of parameters to des
 
 However only a few of these functions are available at the moment and have to be done manually like the ability to record resources and their transformations into other resources. Next step is to have fully automated order resolution based on resource dependencies and distance
 
-## The project
 
-### Help needed
-
-Contributions and testing is welcome.
-
-### Activity
-
-Update 2020-03-06: Last update has been done two months ago. Still active.
-
-### Contact
-
-Michal Mauser

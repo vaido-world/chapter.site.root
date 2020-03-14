@@ -11,6 +11,13 @@ title: Copiosis Rocket
 # wether page and link to it is shown
 hide: false
 
+help_needed: >
+    Contributions and testing is welcome.
+activity: >
+    Update 2020-03-06: Last update has been done six months ago. Still active.
+contact: >
+    Michal Mauser
+
 ---
 
 ## The idea
@@ -21,16 +28,3 @@ Prototype Copiosis community management application.
 
 <!--more-->
 
-## The project
-
-### Help needed
-
-Contributions and testing is welcome.
-
-### Activity
-
-Update 2020-03-06: Last update has been done six months ago. Still active.
-
-### Contact
-
-Michal Mauser

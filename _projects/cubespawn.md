@@ -11,6 +11,12 @@ title: Cubespawn
 # wether page and link to it is shown
 hide: true
 
+help_needed: 
+activity: > 
+    Update 2020-03-14: 
+contact: >
+    James Jones
+
 ---
 
 ## The idea
@@ -49,14 +55,4 @@ https://github.com/cubespawn-parts
 ##### Research
 https://github.com/CubeSpawn-Research
 
-### Help needed
-
-
-### Activity
-
-Update 2020-03-14: 
-
-### Contact
-
-James Jones
 
