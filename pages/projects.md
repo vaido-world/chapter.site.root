@@ -18,6 +18,8 @@ Finnish chapter is taking care of the updates. If you have a project you would l
 
 {% for project in site.projects %}
 
+{% if project.hide==false %}
+
 <div class="project_in_list">
     <div class="card project_card">
         <h3>
@@ -30,6 +32,8 @@ Finnish chapter is taking care of the updates. If you have a project you would l
         <a href="{{ base }}{{ project.url }}">Read more</a>
     </div>
 </div>
+
+{% endif %}
 
 {% endfor %}
 

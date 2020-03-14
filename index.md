@@ -27,11 +27,13 @@ More details here [projects](projects/)
 <ul>
 {% for project in site.projects %}
 
+{% if project.hide==false %}
    <li>
      <a href="{{ base }}{{ project.url }}">
        {{ project.title }}
      </a>
    </li>
+{% endif %}
 
 {% endfor %}
 </ul>
