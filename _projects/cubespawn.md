@@ -54,7 +54,7 @@ https://github.com/CubeSpawn-Research
 
 ### Activity
 
-Update 2020-03-14: Updated 2019. In active use.
+Update 2020-03-14: 
 
 ### Contact
 
