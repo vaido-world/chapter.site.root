@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 
 #title
 title: Discord servers, Matrix service and other chats
@@ -15,8 +15,7 @@ hide: false
 
 ### TZM Discord server
 
-A friendly place to chat with other activists. Monthly Saturday meetings are held here too.
-https://bitly.com/tzm-discord
+A friendly place to chat with other activists. Monthly Saturday meetings are held here too. Get invitation link here [discord](/discord)
 
 #### Matrix community (partly connected to TZM discord)
 https://matrix.to/#/+tzm:matrix.tzm.community
