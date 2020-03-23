@@ -13,12 +13,10 @@ hide: false
 
 ---
 
-## Monthly communication
-
 Communication and meeting protocol
 https://board.net/p/New_Human_Right_Movement_Comm_Protocol
 
-1. Once a week check the announcements channel #development_and_news channel in discord https://discord.gg/69PMSCE
+1. Once a week check the announcements channel #development_and_news channel in discord https://tzm.community/discord
     - Thumbs Up those announcement which you think should be shared in a Newsletter format
 2. Make sure to properly write announcements that are relevant for everyone to read and post them in the #development_and_news channel in discord
 3. Check our personal messages and pings (when people mention us) in discord, at least once a week. 
