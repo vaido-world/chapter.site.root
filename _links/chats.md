@@ -17,6 +17,10 @@ hide: false
 
 A friendly place to chat with other activists. Monthly Saturday meetings are held here too. Get invitation link here [discord](/discord)
 
+#### Riot chat
+https://chat.tzm.community
+more instructions here: [https://tzm.community/chat](https://tzm.community/chat)
+
 #### Matrix community (partly connected to TZM discord)
 https://matrix.to/#/+tzm:matrix.tzm.community
 
