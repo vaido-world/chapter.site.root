@@ -33,6 +33,11 @@
 
               <div class="excerpt">
                   {{ post.excerpt }}
+                  
+                  {% if post.content.size > post.excerpt.size %}
+                    <a class="read_more" href="{{ base }}{{ post.url }}">READ MORE</a>
+                  {% endif %}
+
                 <!--{{ post.content | strip_html | truncate: "250" }}-->
                 <!--<a class="button" href="{{ post.url }}">
                   {{ site.theme_settings.str_continue_reading }}
