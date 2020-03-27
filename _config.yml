@@ -99,6 +99,9 @@ posts_three_col: false
 # maximum number of posts show on home page
 posts_max_home: 3
 
+# the text in "read more" links
+posts_readmore_text: Read more
+
 # if true, links to events will be shown in home page
 show_events_on_homepage: false
 
