@@ -25,6 +25,8 @@ Originally started by Finnish branch, Koto Coop -project is an effort to start a
 
 [https://kotocoop.org](https://kotocoop.org)
 
+<img src="https://kotocoop.org/uploads/2018/03/30/drawing.png" />
+
 <!--more-->
 
 ### Units
