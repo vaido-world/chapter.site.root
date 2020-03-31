@@ -5,7 +5,7 @@ layout: project
 title: Living TZM
 
 # banner image
-header_image: "/assets/img/livingtzm.jpg"
+header_image: "/assets/img/livingtzm.png"
 #full_image: "/assets/scaled/livingtzm.png"
 
 # wether page and link to it is shown
