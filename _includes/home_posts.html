@@ -17,7 +17,7 @@
         <div class="card mb-4 box-shadow h-md-250 post-teaser">
           {% if post.thumbnail %}
           <div class="thumbnail">
-             <img src="{{ base }}/{{ post.thumbnail }}">
+             <img class="lazyload" data-src="{{ base }}/{{ post.thumbnail }}">
           </div>
           {% endif %}
             <header class="posts_item_header">
