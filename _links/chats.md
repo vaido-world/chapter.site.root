@@ -13,6 +13,10 @@ hide: false
 
 ---
 
+### TZM Global (Zeitgeist Movement) RBE HQ - Telegram channel 
+
+A discussion group is linked to the channel [https://t.me/tzmglobalchannel](https://t.me/tzmglobalchannel)
+
 ### TZM Discord server
 
 A friendly place to chat with other activists. Monthly Saturday meetings are held here too. Get invitation link here [discord](/discord)
