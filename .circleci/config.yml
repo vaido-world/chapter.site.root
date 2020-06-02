@@ -9,6 +9,7 @@ jobs:
     environment:
       BUNDLE_PATH: ~/repo/vendor/bundle
       JEKYLL_ENV: "production"
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
     steps:
       - checkout
       - restore_cache:
@@ -36,7 +37,7 @@ jobs:
           command: bash bundle.sh
       - run:
           name: Jekyll build
-          command: bundle exec jekyll build --trace
+          command: bundle exec jekyll build
       - persist_to_workspace:
           root: ./
           paths:

@@ -17,7 +17,7 @@
 				    <div class="row align-items-center">
 				      <div class="col-lg-12">
 						{% if site.home_show_event_images %}
-				      	<img class="event-image" src="{{ base }}{{ e.header_image }}" />
+				      	<img class="event-image lazyload" data-src="{{ base }}{{ e.header_image }}" />
 						{% endif %}
 				        <h2 class="display-3 text-center text-white mt-4">{{ e.subtitle }}</h2>
 						<div class="event-excerpt">{{ e.excerpt }}</div>

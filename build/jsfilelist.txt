@@ -4,6 +4,7 @@ assets/vendor/popper/popper.min.js
 assets/vendor/bootstrap/js/bootstrap.min.js
 assets/vendor/jquery/linkify.js
 assets/vendor/jquery/linkify-jquery.js
-assets/js/tzm-news-widget.js
+assets/vendor/lazysizes.min.js
 assets/js/main.js
 assets/js/linkify.js
+assets/js/tzm-news-widget.js

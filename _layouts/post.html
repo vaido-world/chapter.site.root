@@ -6,7 +6,7 @@ layout: default
     {% if page.feature-img %}
     {% else %}
        {% if page.thumbnail %}
-            <img class="post_thumbnail" src="{{ base }}/{{page.thumbnail}}" />
+            <img class="post_thumbnail lazyload" data-src="{{ base }}/{{page.thumbnail}}" />
        {% endif %}
     {% endif %}
 
