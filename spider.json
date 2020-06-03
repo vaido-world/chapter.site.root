@@ -199,15 +199,6 @@
         "TZMFL01NW": {
             "id": "TZMFL01NW",
             "links": [
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
-                "http://fb.me/TZMFL01NW/",
                 "http://fb.me/TZMFL01NW/"
             ],
             "name": "North West Florida Regional Chapter"
@@ -215,15 +206,6 @@
         "TZMFL02NC": {
             "id": "TZMFL02NC",
             "links": [
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
-                "http://fb.me/TZMFL02NC",
                 "http://fb.me/TZMFL02NC"
             ],
             "name": "North Central Florida Regional Chapter"
@@ -231,15 +213,6 @@
         "TZMFL03NE": {
             "id": "TZMFL03NE",
             "links": [
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
-                "http://fb.me/TZMFL03NE/",
                 "http://fb.me/TZMFL03NE/"
             ],
             "name": "North East Florida Regional Chapter"
@@ -247,15 +220,6 @@
         "TZMFL04C": {
             "id": "TZMFL04C",
             "links": [
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
-                "http://fb.me/TZMFL04C",
                 "http://fb.me/TZMFL04C"
             ],
             "name": "Central Florida Regional Chapter"
@@ -263,15 +227,6 @@
         "TZMFL06SW": {
             "id": "TZMFL06SW",
             "links": [
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
-                "http://fb.me/TZMFL06SW",
                 "http://fb.me/TZMFL06SW"
             ],
             "name": "South West Florida Regional Chapter"
@@ -279,15 +234,6 @@
         "TZMFL07SE": {
             "id": "TZMFL07SE",
             "links": [
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
-                "http://fb.me/TZMFL07SE/",
                 "http://fb.me/TZMFL07SE/"
             ],
             "name": "South East Florida Regional Chapter"
@@ -321,15 +267,6 @@
         "ZMFL05CW": {
             "id": "ZMFL05CW",
             "links": [
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
-                "http://fb.me/ZMFL05CW",
                 "http://fb.me/ZMFL05CW"
             ],
             "name": "Central West Florida Regional Chapter"
@@ -393,7 +330,7 @@
             "Website": "https://www.thezeitgeistmovement.be/",
             "id": "ch-belgium",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:05",
+            "website.tested.datetime": "2020-06-03 11:12:53",
             "website.working": "true"
         },
         "ch-brazil": {
@@ -611,7 +548,7 @@
             "YouTube": "https://www.youtube.com/user/tzmgr",
             "id": "ch-greece",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:06",
+            "website.tested.datetime": "2020-06-03 11:12:55",
             "website.working": "true"
         },
         "ch-guatemala": {
@@ -807,7 +744,7 @@
             "YouTube": "https://www.youtube.com/c/ZeitgeistbewegingNL",
             "id": "ch-netherlands",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:09",
+            "website.tested.datetime": "2020-06-03 11:13:02",
             "website.working": "true"
         },
         "ch-norway": {
@@ -923,7 +860,7 @@
             "YouTube": "https://www.youtube.com/user/TZMOfficialRussia",
             "id": "ch-russia",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:10",
+            "website.tested.datetime": "2020-06-03 11:13:03",
             "website.working": "true"
         },
         "ch-singapore": {
@@ -959,7 +896,7 @@
             "YouTube": "https://www.youtube.com/user/ZeitgeistMovementSK",
             "id": "ch-slovakia",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:13",
+            "website.tested.datetime": "2020-06-03 11:13:06",
             "website.working": "true"
         },
         "ch-southafrica": {
@@ -1204,7 +1141,7 @@
             "Website": "https://pma420.tzmwiki.org/",
             "id": "pr-tzmwiki",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:15",
+            "website.tested.datetime": "2020-06-03 11:13:08",
             "website.working": "true"
         },
         "pr-wia": {
@@ -1274,7 +1211,7 @@
             "Website": "https://www.thezeitgeistmovement.com/",
             "id": "te-tzmcomteam",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:22",
+            "website.tested.datetime": "2020-06-03 11:13:14",
             "website.working": "true"
         },
         "te-tzmdevelopnews": {
@@ -1334,7 +1271,7 @@
             "iTune Store": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=334102952&mt=2&ls=1",
             "id": "te-tzmgr",
             "website.tested": "2020-06-02",
-            "website.tested.datetime": "2020-06-02 16:21:27",
+            "website.tested.datetime": "2020-06-03 11:13:19",
             "website.working": "true"
         },
         "te-zeitnews": {
