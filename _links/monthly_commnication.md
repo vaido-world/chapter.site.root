@@ -23,6 +23,7 @@ https://board.net/p/New_Human_Right_Movement_Comm_Protocol
 4. Once a month attend at least ONE of the two global meetings, it is not necessary to attend both. If not possible to attend read the agreements in the minutes/meeting notes. 
 
 Meetings are held every month on the same days and times: 
-    - The last Saturday of every month at 9:00 UTC in the (voice) International channel ON DISCORD https://tzm.community/discord
-    -  The last Wednesday of every month at 21:00 UTC in mumble.  Download: mumble.info, Server: zeitgeistmovement.cz, Password: NasMumble*2018 (https://www.thezeitgeistmovement.com/about/#model)
-eam.org/munity?via=matrix.tzm.community
+    - The last Saturday of every month at 9:00 UTC
+    - The last Wednesday of every month at 21:00 
+
+Both meetings are held in the (voice) International channel ON DISCORD https://tzm.community/discord
