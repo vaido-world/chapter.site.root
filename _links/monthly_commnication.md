@@ -18,7 +18,7 @@ https://board.net/p/New_Human_Right_Movement_Comm_Protocol
 
 1. Once a week check the announcements channel #development_and_news channel in discord https://tzm.community/discord
     - Thumbs Up those announcement which you think should be shared in a Newsletter format
-2. Make sure to properly write announcements that are relevant for everyone to read and post them in the #development_and_news channel in discord
+2. Make sure to properly write announcements that are relevant for everyone to read and post them in the #unews-and-updates channel in discord
 3. Check our personal messages and pings (when people mention us) in discord, at least once a week. 
 4. Once a month attend at least ONE of the two global meetings, it is not necessary to attend both. If not possible to attend read the agreements in the minutes/meeting notes. 
 
