@@ -1,0 +1,45 @@
+---
+layout: default
+---
+  {% include base.html %}
+
+  {% if site.sidepanel %}
+  <div class="row">
+      <div class="col-lg-8">
+          <!-- CONTENT -->
+          {% include home_projects.html %}
+          {% include home_links.html %}          
+          {% include home_content.html %}
+
+            <div class="row mb-2 links">
+            <div class="card col-md-12 h-md-250">
+             {{ content }}
+            </div>
+            </div>
+      </div>
+        
+      <!-- SIDEPANEL -->
+      <div class="col-lg-4 sidepanel-col">
+        {% include sidepanel_content.html %}
+      </div>
+      <!-- SIDEPANEL CLOSING -->
+  </div> 
+  {% else %}
+
+
+      <!-- PROJECTS AND LINKS -->
+      {% include home_projects.html %}
+      {% include home_links.html %}
+
+
+    <div class="row mb-2 links">
+    <div class="card col-md-12 h-md-250">
+     {{ content }}
+    </div>
+    </div>
+
+      <!-- CONTENT -->
+      {% include home_content.html %}
+  
+  {% endif %}
+  

@@ -1,0 +1,26 @@
+<!-- POSTS -->
+<div class="row mb-2 projects">
+<div class="card col-md-12 h-md-250">
+
+<h2>Projects</h2>
+
+<p>
+More details here <a href="{{base}}/projects">projects</a>
+</p>
+
+<ul>
+{% for project in site.projects %}
+
+{% if project.hide==false %}
+   <li>
+     <a href="{{ base }}{{ project.url }}">
+       {{ project.title }}
+     </a>
+   </li>
+{% endif %}
+
+{% endfor %}
+</ul>    
+
+</div>
+</div> <!-- posts row closing -->

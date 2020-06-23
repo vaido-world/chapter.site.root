@@ -1,0 +1,20 @@
+<!-- LINKS -->
+<div class="row mb-2 links">
+<div class="card col-md-12 h-md-250">
+<h2>Links</h2>
+
+<ul>
+{% for link in site.links %}
+
+   <li>
+     <a href="{{ base }}{{ link.url }}">
+       {{ link.title }}
+     </a>
+   </li>
+
+{% endfor %}
+</ul>
+
+</div>
+	
+</div> <!-- row closing -->

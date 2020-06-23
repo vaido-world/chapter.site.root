@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: roothome
 bootstrap: true
 
 # title
@@ -20,37 +20,8 @@ postnav_linktext: "Learn more"
 header_image: "/assets/img/autumn-219972_1280.jpg"
 
 ---
-## Projects
-
-More details here [projects](projects/)
-
-<ul>
-{% for project in site.projects %}
-
-{% if project.hide==false %}
-   <li>
-     <a href="{{ base }}{{ project.url }}">
-       {{ project.title }}
-     </a>
-   </li>
-{% endif %}
-
-{% endfor %}
-</ul>
 
 
-## Links
-<ul>
-{% for link in site.links %}
-
-   <li>
-     <a href="{{ base }}{{ link.url }}">
-       {{ link.title }}
-     </a>
-   </li>
-
-{% endfor %}
-</ul>
 
 ## Community websites
 
@@ -69,5 +40,3 @@ Finland [https://tzm.fi](https://tzm.fi)
 [https://tzmcommunity.github.io/docs](https://tzmcommunity.github.io/docs "https://tzmcommunity.github.io/docs")
 
 [https://test.tzm.community/](https://test.tzm.community/ "https://test.tzm.community/")
-
-
