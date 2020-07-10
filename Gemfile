@@ -15,7 +15,7 @@ gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "jekyll-minifier"
 
-gem "jekyll", "~> 4.0"
+gem "jekyll", "4.0"
 
 gem "html-proofer"
 gem "json"
