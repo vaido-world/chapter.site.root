@@ -14,16 +14,20 @@ hide: false
 help_needed: >
     More information is shared on our telegram group.
 activity: >
-    Update 2020-03-06: Koto is currenly the main project run by Finnish branch.
+    Update 2020-07-25: Koto Coop has been founded and teams to get funding has been created https://kotocoop.org/2020-07-18-funding-project-groups/
 contact: >
-    tzm.fi
+    https://tzm.fi
+    https://kotocoop.org
+    https://cloud.kotocoop.org/index.php/s/yxpg9sCS65qainn
 
 ---
 
 ## The idea
-Originally started by Finnish branch, Koto Coop -project is an effort to start an Co-op and network of intentional communities.
+Originally started by Finnish branch, Koto Coop -project is an effort to start an Co-op and network of intentional communities and project teams.
 
-[https://kotocoop.org](https://kotocoop.org)
+Here is a new article on operational model [https://kotocoop.org/about/model/](https://kotocoop.org/about/model/)
+
+Check out news at [https://kotocoop.org](https://kotocoop.org)
 
 <img src="https://kotocoop.org/uploads/2018/03/30/drawing.png" />
 
@@ -31,14 +35,15 @@ Originally started by Finnish branch, Koto Coop -project is an effort to start a
 
 ### Units
 
-We will start an co-op that will fund and set up different types of “units” to help activist have more freedom to work on projects.
+Purpose of Koto Coop is development of technologies and social structures that makes sustainable, 
+post-scarcity society possible and making this development feasible. 
+To advance this development we aim at creating operational models, 
+which lets us succeed in getting people involved and providing them livelihood. 
+This way we strive at sustainably supporting development and research.
 
 #### Communities
-Community type of unit are where members can live ecologically without barter, improve their skills and plans which help expand the way of living and gather resources needed to set up a next unit. 
-Number of units will grow exponentially and money needed for the next unit decrease because resources will be produced more and more inside co-op.
-
-Participation share will grant you right to live in any of the units and move to another unit at will. Price of the share is so equals to price of the resources needed to build one apartment. Monthly cost will be less than what people typically pay rent.
-
-#### Other types
-For example a group of people living in a city, working together to gather resources for the co-op, taking care of a comunity garden and getting resources from co-op like for example food products. 
+Community type of unit are where members can live ecologically without barter, 
+improve their skills and plans which help expand the way of living and gather resources needed to set up a next unit. 
+Number of units will grow exponentially and money needed for the next unit decrease 
+because resources will be produced more and more inside co-op.
 
