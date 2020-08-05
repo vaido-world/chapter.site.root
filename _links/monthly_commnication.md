@@ -22,8 +22,9 @@ https://board.net/p/New_Human_Right_Movement_Comm_Protocol
 3. Check our personal messages and pings (when people mention us) in discord, at least once a week. 
 4. Once a month attend at least ONE of the two open access assembkues, it is not necessary to attend both. If not possible to attend read the agreements in the minutes/meeting notes. 
 
-Assemblies are held every month on the same days and times: 
-    - The secdond Wednesday of every month at 21:00 UTC 
+Assemblies are held every month on the same days and times:
+
+    - The second Wednesday of every month at 21:00 UTC 
     - The last Saturday of every month at 9:00 UTC
 
 Both assemblies are held in the (voice) International channel ON DISCORD https://tzm.community/discord
