@@ -3,7 +3,7 @@ layout: page
 title: Directory
 permalink: /directory/
 menuid: directory
-parentid: directory
+parentid: community
 order: 6
 hide: false
 ---
