@@ -10,7 +10,7 @@ hide: false
 
 ### Branches
 
-- Finland [tzm.fi](tzm.fi)
+- Finland [https://tzm.fi](https://tzm.fi)
 - Iceland [https://www.zeitgeistmovement.is/](https://www.zeitgeistmovement.is/)
 
 ### Websites
