@@ -27,6 +27,7 @@ hide: false
 
 ### Websites
 
+- Content in spanish [https://movimientoz.org/](https://movimientoz.org/)
 - TZM Community pages [https://tzm.community](https://tzm.community)
 - TZM Community news [https://news.tzm.community](https://news.tzm.community)
 
