@@ -8,7 +8,7 @@ order: 6
 hide: false
 ---
 
-### Branches
+### TZM Branches
 
 - Finland [https://tzm.fi](https://tzm.fi)
 - Iceland [https://www.zeitgeistmovement.is/](https://www.zeitgeistmovement.is/)
@@ -25,8 +25,12 @@ hide: false
 - United Kingdom [http://thezeitgeistmovementuk.com/](http://thezeitgeistmovementuk.com/)
 - United States [https://www.thezeitgeistmovement.us/](https://www.thezeitgeistmovement.us/)
 
-### Websites
+### TZM Community Websites
 
+- Content in spanish [https://movimientoz.org/](https://movimientoz.org/)
 - TZM Community pages [https://tzm.community](https://tzm.community)
 - TZM Community news [https://news.tzm.community](https://news.tzm.community)
 
+### Projects and organizations
+- 2steps2rbe [https://2steps2rbe.org](https://2steps2rbe.org)
+- Koto coop [https://kotocoop.org](https://kotocoop.org)
