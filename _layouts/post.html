@@ -19,7 +19,21 @@ layout: default
     <h2 class="subtitle">{{ page.subtitle }}</h2>
     {% endif %}
   </header>
-  
+
+	<section>  
+	{% for tag in page.tags %}
+		{% for project in site.projects %}
+			{% if project.tag == tag %}
+				<p>
+				Check out the project  <a href="{{ project.url}}">here</a>
+				</p>
+			{% endif %}
+			
+		{% endfor %}
+		
+	{% endfor %}
+	</section>  
+	  
   <section class="post-content">
   {% if page.bootstrap %}
   <div class="bootstrap-iso">
