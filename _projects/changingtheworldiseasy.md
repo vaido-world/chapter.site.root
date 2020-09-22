@@ -11,23 +11,19 @@ title: Changing the world is easy
 # wether page and link to it is shown
 hide: false
 
-help_needed: >
-    Nothing currently
-activity: >
-    Update 2020-07-25: Project added
 contact: >
-    Mark Enoch
+    Mark Enoch, investincommongood@protonmail.com , +34 629918425
+
+tag: changing_the_world_is_easy
 
 ---
 
 ## The idea
 
-The idea of this site is to provide a simple yet effective method of materializing the values and goals of the New Human Rights Movement. 
-The method, called Prosocializing, or the DIY Transition Plan, 
-
-enables us individuals to build the RBE Shared World of trade-free abundance in a decentralized fashion, step by step, 
-in the communities we live in. It also provides a list of Free Collaboration Networks, 
-which we are to use and expand into an ecosystem that will replace businesses and corporations as our supply of goods and services.
+The final goal is to replace the commercial systems that provide what we need to live and thrive with trade-free organizations and networks so everyone can access goods and services without buying or trading for them.  This is done with three general actions. 
+1. Educating the public and promoting sharing and generosity. 
+2. Showing people the networks, tools and methods that facilitate, permit and organize sharing and generosity. We call them Free Collaboration Networks.
+3. Telling people about this project, and giving it visibility, and people how it these actions are done so that more and more people participate.
 
 [https://changingtheworldiseasy.com//](https://changingtheworldiseasy.com/)
 
