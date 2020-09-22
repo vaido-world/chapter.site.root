@@ -11,14 +11,17 @@ full_image: "/assets/scaled/koto_coop.png"
 # wether page and link to it is shown
 hide: false
 
+tag: kotocoop
+
 help_needed: >
-    More information is shared on our telegram group.
-activity: >
-    Update 2020-07-25: Koto Coop has been founded and teams to get funding has been created https://kotocoop.org/2020-07-18-funding-project-groups/
+    If you would like to help, send us an email info(at)kotocoop.org or join our Telegram group
+
 contact: >
-    https://tzm.fi
-    https://kotocoop.org
-    https://cloud.kotocoop.org/index.php/s/yxpg9sCS65qainn
+    <ul>
+    <li>https://tzm.fi</li>
+    <li>https://kotocoop.org</li>
+    <li>https://cloud.kotocoop.org/index.php/s/yxpg9sCS65qainn</li>
+    </ul>
 
 ---
 
