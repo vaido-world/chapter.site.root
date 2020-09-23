@@ -36,14 +36,13 @@ layout: default
 		</p>
 	{% endif %}
 	
-	<h2>Latest update</h2>
 
 	{% for tag in site.tags %}
 		{% if tag[0] == page.tags[0] %}
+			<h2>Latest update - {{ tag[1][0].date | date: "%B %-d, %Y" }} </h2>
 			{% for post in tag[1] %}
 	      		{{ post.content }}	      		
 	    	{% endfor %}
-	    	
 	    {% endif %}
 	{% endfor %}
 	

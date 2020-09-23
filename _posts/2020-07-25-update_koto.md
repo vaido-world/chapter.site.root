@@ -14,9 +14,6 @@ tag: kotocoop
  
 ---
 
-### Update
-
 Koto Coop has been founded and teams to get funding has been created https://kotocoop.org/2020-07-18-funding-project-groups/
 
 <!--more-->
-

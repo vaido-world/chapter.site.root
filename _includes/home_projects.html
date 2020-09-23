@@ -8,19 +8,28 @@
 More details here <a href="{{base}}/projects">projects</a>
 </p>
 
+{% capture tagString %}{% for tag in site.tags %}{{ tag[0] }}#{{ tag[1][0].date }}{% unless forloop.last %}|{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags = tagString | split: '|' | sort: 'downcase' | reverse %}
+
 <ul>
-{% for project in site.projects %}
-
-{% if project.hide==false %}
-   <li>
-     <a href="{{ base }}{{ project.url }}">
-       {{ project.title }}
-     </a>
-   </li>
-{% endif %}
-
+{% for stag in tags %}
+	{% assign tagsplit = stag | downcase | split: '#' %}
+	{% assign tag = tagsplit[0] %}
+	
+	{% assign ndate = site.tags[tag][0].date %}  
+	{% for project in site.projects %}
+		{% if project.tags[0] == tag and project.hide==false %}
+		   <li>
+		     <a href="{{ base }}{{ project.url }}">
+		       {{ project.title }}
+		     </a>
+		     Updated at {{ tagsplit[1] | date: "%B %-d, %Y" }}
+		   </li>
+		{% endif %}		
+	{% endfor %}	
 {% endfor %}
 </ul>    
+
 
 </div>
 </div> <!-- posts row closing -->
