@@ -7,8 +7,6 @@ menuid: ''
 order: 
 
 ---
-## TZM Activism guide
-
 ## TZM Activist Guide
 
 INDEX
