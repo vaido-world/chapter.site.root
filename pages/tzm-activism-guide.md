@@ -3,35 +3,10 @@ layout: page
 title: TZM Activism guide
 permalink: "/activism/"
 tags: []
-menuid: ''
-order: 
+order: 1
+toc: true
 
 ---
-## TZM Activist Guide
-
-INDEX
-
- 1. [Advance Notice](https://gct.zeitgeist-info.com/activism#two)
- 2. [The Zeitgeist Movement](https://gct.zeitgeist-info.com/activism#three)
- 3. [TZM Train of Thought](https://gct.zeitgeist-info.com/activism#four)
- 4. [How does TZM work?](https://gct.zeitgeist-info.com/activism#five)
- 5. [What does a TZM Activist do?](https://gct.zeitgeist-info.com/activism#six)
- 6. [What is a Branch?](https://gct.zeitgeist-info.com/activism#seven)
- 7. [Teams](https://gct.zeitgeist-info.com/activism#eight)
- 8. [Projects](https://gct.zeitgeist-info.com/activism#nine)
- 9. [Other Branches](https://gct.zeitgeist-info.com/activism#ten)
-10. [How to begin a Branch?](https://gct.zeitgeist-info.com/activism#eleven)
-11. [The Standards of being active within TZM](https://gct.zeitgeist-info.com/activism#twelve)
-12. [Activist Resources & Materials](https://gct.zeitgeist-info.com/activism#thirteen)
-13. [Organizing Events](https://gct.zeitgeist-info.com/activism#fourteen)
-14. [Zeitgeist-Day](https://gct.zeitgeist-info.com/activism#fifteen)
-15. [Zeitgeist Media Festival](https://gct.zeitgeist-info.com/activism#sixteen)
-16. [Zeitgeist European Meet-Up](https://gct.zeitgeist-info.com/activism#seventeen)
-17. [Other Events](https://gct.zeitgeist-info.com/activism#eighteen)
-18. [Meetings](https://gct.zeitgeist-info.com/activism#nineteen)
-19. [Donations & Funding](https://gct.zeitgeist-info.com/activism#twenty)
-20. [Communication](https://gct.zeitgeist-info.com/activism#twentyone)
-21. [Short & Long Term Goals](https://gct.zeitgeist-info.com/activism#twentytwo)
 
 ## Advance Notice
 
@@ -41,20 +16,20 @@ There is also no single guide to being active in TZM, because circumstances and 
 
 The purpose of this guide to inspire and to encourage others to engage in activism within TZM. It includes broad suggestions and working strategies for increasing the productivity and effectiveness of individuals and branches/groups. The sole requirements are to advance the TZM train of thought, while being respectful of those who do not agree with it.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## The Zeitgeist Movement
 
 > „Founded in 2008, The Zeitgeist Movement (TZM) is a sustainability advocacy group that operates through a network of regional chapters, project teams, public events, media expressions and charity operations. TZM's activism is explicitly based on non-violent methods of communication, with the core focus on educating the public about the true root sources of many common personal, social and ecological problems today, coupled with the vast problem-solving and humanity-improving potential, science and technology have now enabled, but yet goes unapplied, due to barriers inherent in the current, established social system.“  
 >  -The Zeitgeist Movement Defined, p 09.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## TZM Train of Thought
 
 As a movement for global sustainability, TZM is not a political party. TZM does realize the current system is unsustainable and must be supplanted, in order for humanity to survive. People of all or no faiths, national or ethnic heritages, and any other personal, social or biological characteristics are welcome to join the movement. This movement is non-hierarchical and rejects any proposed solutions, employing the use of control, violence or coercion, in order to obtain peace and harmony.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## How does TZM work?
 
@@ -64,7 +39,7 @@ There is a need and a role for everyone, whether it is as a street activist, a d
 
 Activists in TZM are rely on self-motivation and since being active in TZM can conflict with one’s personal life, there is always the threat of activity slowing or coming to a complete halt. Therefore activists and organized branches have made backup plans with emergency contacts that are able to perform tasks to keep the branch going. It is also common to pay for specific services for a branch or for an event, when the efforts of the volunteer activists are insufficient.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## What does a TZM Activist do?
 
@@ -74,7 +49,7 @@ Some people understand the train of thought and want to be active in TZM, but fo
 
 It is important to understand that these global problems or solutions do not belong to the movement and do not originate from within the movement. By regarding yourself as a TZM activist, you are responsible for displaying a positive and welcoming image of TZM. The name TZM is only employed to organize a global community with a common goal. Therefore, please be careful with your choice of words when describing TZM or debating various topics. TZM exists to spread awareness, bring people together, motivate people to care about fellow human beings and the environment, and inspire people about our potential to reverse the destruction produced by the current system. Realize that this is ultimately an international, collective effort, and you cannot complete this task alone.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## What is a Branch?
 
@@ -94,37 +69,37 @@ City/Local Branch
 
 A City/Lfocal Branch is a group that acts directly in a city/town/village to organize TZM gatherings, street activism, workshops, and other events.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Teams
 
 While local groups attempt to share the train of thought of TZM to various audiences, teams are focused on other functions within TZM. They can consist of activists collaborating internationally and electronically, such as a German language translation team with activists from multiple cities in Germany as well as other German-speaking countries like Switzerland, Luxembourg and Austria. Of course, teams can exist entirely in a single location and meet in person, too.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Projects
 
 A project can be short-term like arranging a particular exhibit or event or ongoing, such as the “Why I advocate TZM” ongoing video project. A project could also be long-term, such as cleaning a city or beach and require substantial funding, planning and time. There are many possibilities.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Other Branches
 
 Branches in TZM are not limited to these three categories. They are actually arbitrary. Activists can create new names or purposes for branches according to their needs and the environment in which they operate. You be the creator!
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## How to begin a Branch?
 
 A branch is started as soon as somebody decides to start one. It is then a matter of finding other like-minded people to participate in the branch, which all must follow obtaining an understanding of the train of thought and the fundamentals of being active in TZM. To have a branch be recognized, it needs to be communicated to the rest of the TZM network. It helps to have a website and social media for the branch so that people can find it.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## The Standards of being active within TZM
 
 The only standards of becoming an activist, or starting a branch with others, is performing activities related to TZM and sharing the train of thought, being respectful to other people and the environment, as well as trying to make the world a better place. There are no trials, no membership, or other ordeals to prove oneself being within TZM. People within TZM are judged only by their actions and commitment, as well as what they do for the movement and others. You come as you are.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Activist Resources & Materials
 
@@ -136,7 +111,7 @@ Therefore, it is important to have a variety of activist tools, if you are organ
 
 The movement operates like an open source platform. It is encouraged to contact other activists and branches to ask to use their existing material, translate it into your language or location and perhaps even create your own material and reverse the process, by distributing it to others.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Organizing Events
 
@@ -144,7 +119,7 @@ Events are among the most important aspects of activism. They serve as a means o
 
 Organizing an event requires a lot of planning, time, and patience to produce successful and satisfying results. It is also important to understand what the purpose of the event is.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Zeitgeist-Day
 
@@ -152,7 +127,7 @@ The first Zeitgeist-Day (also known as Z-Day) was in 2009. A global collection o
 
 "Z-Days usually contain a number of presentations or lectures from TZM activists or guest speakers, who may be famous or relatively obscure. There are often Q&A (question and answer) panels at the conclusion of the event to follow up on presentations, or address questions regarding TZM, in general. There are normally many leaflets, books, and TZM merchandise at the event to promote and disseminate knowledge of TZM.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Zeitgeist Media Festival
 
@@ -160,7 +135,7 @@ Unlike Z-Day, the Zeitgeist Media Festival places emphasis on using art, music a
 
 This exciting event offers an accessible introduction for newcomers, and does not require the intense and extended concentration required by some Z-Day presentations. The Zeitgeist Media Festival has now also been organized in many other countries and may be held at any time during the year.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Zeitgeist European Meet-Up
 
@@ -170,13 +145,13 @@ The second Zeitgeist European Meet-Up and first major event within TZM in Easter
 
 The Zeitgeist European Meet-Ups are not limited to Europeans, but open to anyone wishing to take part in the excitement. The European Meet-Ups feature the cultures and environments in Europe while continuing to explore and advance the TZM train of thought. They are usually held two years apart and are organized by a European TZM branch.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Other Events
 
 While Zeitgeist-Day, Zeitgeist Media Festival, and the Zeitgeist European Meet-Ups are the most popular and well known events of TZM, these are not the only variants, and the name “Zeitgeist” does not need to appear the title of every event held by the movement. Activists and branches are free to come up with any type of event that they feel best advances activism within TZM and reaches an audience to promote embracing global sustainability. If it is successful, it might inspire other branches to produce the same kind of event and become popular in the global TZM network. Again, you be the creator!
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Meetings
 
@@ -186,7 +161,7 @@ Normally in local groups, there are meetings at least monthly to cover subjects 
 
 Some international online meetings are held by activists using Discord, Teamspeak, Mumble and other platforms, to allow participants to introduce themselves, make new contacts and discuss TZM related topics. Keep in mind that meetings can also be recreational. A local branch may arrange a casual meetings at cafés or restaurants, that have no agenda other than socializing and taking the time to become better acquainted and make friends.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Donations & Funding
 
@@ -198,7 +173,7 @@ Going beyond raising funds for events or a particular project, saved or accumula
 
 There are also many methods of collecting funds: from accepting open donations on a website or at events, through a crowdfunding service, or even a branch effort to create special content and use a service like Patreon to collect payment. Again, the branch has to decide together what will best work to help them obtain necessary funds, and honesty is key. Be aware and informed, so that you operate within local and national legal requirements. In some places, even donations have to be properly reported, documented and accounted for. In addition, some donors may require a receipt of their donation, if your branch qualifies as a tax-deductible non-profit organization.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Communication
 
@@ -210,7 +185,7 @@ If there is anything more important than having activist materials, or the fundi
 
 Be honest about your personal or branch situation so that others can better understand and support your efforts. It will also be a reflection of the values that are addressed in TZM. Honesty is something money can never buy.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
 
 ## Short & Long Term Goals
 
@@ -230,4 +205,4 @@ Be honest about your personal or branch situation so that others can better unde
 
   Keep in mind that these are short & long term goals for TZM entirely. For yourself or your branch, you must decide on what deadlines or goals that you think will help keep your activism organized and moving forward.
 
-[Return back to Index](https://gct.zeitgeist-info.com/activism#one)
+[Return back to Index](/activism#one)
