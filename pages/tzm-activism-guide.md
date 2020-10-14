@@ -5,7 +5,6 @@ permalink: "/activism/"
 tags: []
 menuid: ''
 order: 
-published: false
 
 ---
 ## TZM Activism guide
