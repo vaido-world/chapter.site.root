@@ -1,0 +1,22 @@
+---
+label: Page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: menuid
+  label: menuid
+- type: number
+  name: order
+  label: order
