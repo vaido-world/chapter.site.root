@@ -20,3 +20,5 @@ fields:
 - type: number
   name: order
   label: order
+pages:
+- tzm-activism-guide.md
