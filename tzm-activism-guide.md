@@ -1,7 +1,7 @@
 ---
-layout: ''
+layout: page
 title: TZM Activism guide
-permalink: "/activism"
+permalink: "/activism/"
 tags: []
 menuid: ''
 order: 
