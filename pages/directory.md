@@ -28,6 +28,7 @@ The Zeitgeist Movement [https://www.thezeitgeistmovement.com/](https://www.theze
 - Sweden [http://thezeitgeistmovement.se/](http://thezeitgeistmovement.se/)
 - United Kingdom [http://thezeitgeistmovementuk.com/](http://thezeitgeistmovementuk.com/)
 - United States [https://www.thezeitgeistmovement.us/](https://www.thezeitgeistmovement.us/)
+- Netherland [https://www.zeitgeistbeweging.nl/](https://www.zeitgeistbeweging.nl/)
 
 ### TZM Community Websites
 
