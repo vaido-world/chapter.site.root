@@ -3,6 +3,6 @@ layout: page
 title: About
 permalink: /about/
 tags: [About, Archive]
-menuid: about
+hide: true
 order: 1
 ---

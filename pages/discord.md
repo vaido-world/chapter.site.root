@@ -2,7 +2,6 @@
 layout: page
 title: Discord
 permalink: /discord/
-menuid: discord
 order: 2
 hide: false
 redirect: True

@@ -28,7 +28,7 @@ Finnish chapter is taking care of the updates. If you have a project you would l
         {% if project.tags[0] == tag and project.hide==false %}
 
 <div class="project_in_list">
-    <div class="card project_card">
+    <div class="card item_card">
         <h3>
           <a href="{{ base }}{{ project.url }}">
             {{ project.title }}
@@ -48,7 +48,7 @@ Finnish chapter is taking care of the updates. If you have a project you would l
 {% if project.hide==false and project.tag == nil %}
 
 <div class="project_in_list">
-    <div class="card project_card">
+    <div class="card item_card">
         <h3>
           <a href="{{ base }}{{ project.url }}">
             {{ project.title }}

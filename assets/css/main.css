@@ -519,15 +519,15 @@ blockquote {
   width: 100%;
 }
 
-.project_in_list h3 a {
+.item_in_list h3 a {
     color: rgba(0,0,0,.7)!important;
 }
 
-.project_in_list h2 {
+.item_in_list h2 {
 	font-size: 140%;
 }
 
-.project_card {
+.item_card {
     margin-bottom: 20px;
     padding: 20px;
 }
