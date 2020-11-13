@@ -1,0 +1,25 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: list
+  name: tags
+  label: tags
+- type: number
+  name: order
+  label: order
+- type: boolean
+  name: hide
+  label: hide
+- type: boolean
+  name: toc
+  label: toc
