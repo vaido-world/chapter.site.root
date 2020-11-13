@@ -28,3 +28,8 @@ fields:
   config:
     required: false
   label: menuid
+- name: parentid
+  type: text
+  config:
+    required: false
+  label: parentid
