@@ -47,17 +47,42 @@ assets:
         - _assets/images/slides
 
 # Social settings
-facebook_url:
-github_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
-youtube_url:
+show_social_footer_links: true
+social_footer_links_title: Social media
+social_links:
+    facebook: 
+        title: Facebook
+        link: https://facebook.com/
+    twitter: 
+        title: Twitter
+        link: https://twitter.com
+
+
+show_community_footer_links: true
+community_footer_links_title: Community
+community_links:
+    news:
+         link: https://news.tzm.community
+         title: Community news
+    root:         
+        link: https://tzm.community
+        title: Community information
+
 
 #Global TZM URLs:
+show_global_footer_links: true
+global_footer_links_title: Global links
+global_links:
+    website: 
+        link: https://thezeitgeistmovement.com
+        title: Global website
+    youtube:
+        link: https://www.youtube.com/user/TZMOfficialChannel
+        title: Global Youtube channel
+    directory:
+        link: /directory
+        title: Directory                 
+
 tzm_global_facebook_url: "https://www.facebook.com/tzmglobal"
 tzm_global_instagram_url: "https://www.instagram.com/tzmglobal/"
 tzm_global_twitter_url: "https://twitter.com/tzmglobal"
