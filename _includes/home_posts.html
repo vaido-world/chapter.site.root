@@ -15,7 +15,7 @@
     {% assign counter = counter | plus: 1 %}
     
         <div class="card mb-4 box-shadow h-md-250 post-teaser">
-          {% if post.thumbnail %}
+          {% if post.thumbnail != None and post.thumbnail != '' %}
           <div class="thumbnail">
              <img class="lazyload" data-src="{{ base }}/{{ post.thumbnail }}">
           </div>

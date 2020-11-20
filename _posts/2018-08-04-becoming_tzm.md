@@ -1,19 +1,15 @@
 ---
 layout: post
-
-# post title
 title: Becoming TZM
-
-# post author
 author: Juuso
 
 # hide post
 hide: true
 
 # thumbnail
-thumbnail: assets/img_scaled/TZMscene1.png
----
+thumbnail: assets/img_scaled/TZMscene1.jpg
 
+---
 >Sometimes the slightest things change the directions of our lives, the merest breath of a circumstance, a random moment that connects like a meteorite striking the earth. Lives have swiveled and changed direction on the strength of a chance remark.
 >- Bryce Courtenay
 

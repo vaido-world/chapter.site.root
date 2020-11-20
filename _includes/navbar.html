@@ -15,10 +15,10 @@
 
           {% assign sorted_pages = (site.pages | sort: 'order', 'first') %}
 	        {% for node in sorted_pages %}
-	        {% if node.title and node.hide != true and node.parentid == None %}
+	        {% if node.title and node.hide != true and (node.parentid == None or node.parentid == '' %}
 	        {% if name_page contains node.title %}
 	        {% else %}
-				{% if node.menuid != None %}
+				{% if node.menuid != None and node.menuid != '' %}
 					<li class="dropdown nav-item">
 						{% if site.menu_clickable == true %}
 						<a href="{{base}}{{node.url}}" class="nav-link dropdown-toggle disabled">

@@ -1,0 +1,25 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: boolean
+  name: hide
+  label: hide
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail
+pages:
+- _posts/2018-07-30-example.md
+- _posts/2018-08-04-becoming_tzm.md
+- _posts/2018-08-15-example2.md

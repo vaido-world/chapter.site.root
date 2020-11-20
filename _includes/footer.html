@@ -9,7 +9,7 @@
 		<div class="row">
 
 			<!-- Grid column -->
-			<div class="col-md-6 mt-md-0 mt-3">
+			<div class="col-md mt-md-0 mt">
 
 				<!-- Content -->
 				<h5 class="text-uppercase">The Zeitgeist Movement</h5>
@@ -18,42 +18,61 @@
 			</div>
 			<!-- Grid column -->
 
-			<hr class="clearfix w-100 d-md-none pb-3">
-
+			<hr class="clearfix w-100 d-md-none pb">
+	
+			{% if site.show_social_footer_links == true %}
 			<!-- Grid column -->
-			<div class="col-md-3 mb-md-0 mb-3">
+			<div class="col-md mb-md-0 mb">
 
 				<!-- Links -->
-				<h5 class="text-uppercase">Links</h5>
+				<h5 class="text-uppercase">{{ site.social_footer_links_title }}</h5>
 
 				<ul class="list-unstyled">
-					<li><a href="https://thezeitgeistmovement.com">Global website</a></li>
-					<li><a href="https://www.youtube.com/user/TZMOfficialChannel">Global Youtube channel</a></li>
-					<li><a href="{{base}}/directory">Directory</a></li>					
+				{% for link in site.social_links %}					
+					<li><a href="{{ link[1].link }}">{{ link[1].title }}</a></li>
+				{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
+
+			{% if site.show_global_footer_links == true %}
+			<!-- Grid column -->
+			<div class="col-md mb-md-0 mb">
+
+				<!-- Links -->
+				<h5 class="text-uppercase">{{  site.global_footer_links_title }}</h5>
+
+				<ul class="list-unstyled">
+					{% for link in site.global_links %}					
+						<li><a href="{{ link[1].link }}">{{ link[1].title }}</a></li>
+					{% endfor %}
 				</ul>
 
 			</div>
+			{% endif %}
 
+			{% if site.show_community_footer_links == true %}
 			<!-- Grid column -->
-			<div class="col-md-3 mb-md-0 mb-3">
+			<div class="col-md mb-md-0 mb">
 
 				<!-- Links -->
-				<h5 class="text-uppercase">Community</h5>
+				<h5 class="text-uppercase">{{ site.community_footer_links_title }}</h5>
 
 				<ul class="list-unstyled">
-                    <li><a href="https://news.tzm.community">Community news</a></li>
-                    <li><a href="https://tzm.community">Community information</a></li>
+					{% for link in site.community_links %}					
+						<li><a href="{{ link[1].link }}">{{ link[1].title }}</a></li>
+					{% endfor %}
 				</ul>
 
 			</div>
 			<!-- Grid column -->
-
+			{% endif %}
 		</div>
 		<!-- Grid row -->
 
     <div class="row">
     <!-- Copyright -->
-    <div class="col-md-12 footer-copyright text-center py-3"> 
+    <div class="col-md-12 footer-copyright text-center py"> 
         The Zeitgeist Movement is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
     </div>
     <!-- Copyright -->

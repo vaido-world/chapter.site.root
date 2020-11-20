@@ -1,6 +1,6 @@
 ---
-label: Page
-hide_body: true
+label: page
+hide_body: false
 fields:
 - type: text
   name: layout
@@ -14,9 +14,22 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: text
-  name: menuid
-  label: menuid
 - type: number
   name: order
   label: order
+- type: boolean
+  name: hide
+  label: hide
+- type: boolean
+  name: toc
+  label: toc
+- name: menuid
+  type: text
+  config:
+    required: false
+  label: menuid
+- name: parentid
+  type: text
+  config:
+    required: false
+  label: parentid
