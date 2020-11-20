@@ -139,7 +139,7 @@ home_show_event_images: true
 sidepanel: true
 
 # if true, news widger will be shown in the sidepanel
-sidepanel_news: true
+sidepanel_news: false
 
 # news widget url
 news_widget_url: "https://news.tzm.community/widget.html"
