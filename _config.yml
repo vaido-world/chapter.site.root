@@ -61,12 +61,12 @@ social_links:
 show_community_footer_links: true
 community_footer_links_title: Community
 community_links:
-    news:
-         link: https://news.tzm.community
-         title: Community news
-    root:         
+    root:
         link: https://tzm.community
         title: Community information
+    projects:
+         link: https://tzm.community/projects
+         title: Community Projects
 
 
 #Global TZM URLs:
