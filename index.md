@@ -23,4 +23,6 @@ header_image: "/assets/img/autumn-219972_1280.jpg"
 
 ## Welcome to TZM Community!
 
-Here are projects, links and community websites we have gathered.
+Here are news, projects, links and community websites we have gathered.
+
+Check out all the latest news here [https://tzm.community/news](/news)
