@@ -107,6 +107,8 @@ collections:
         output: true
     notes:
         output: true
+    reports:
+        output: true
 
 # where to cut a page when showing only excerpt
 excerpt_separator: "<!--more-->"
