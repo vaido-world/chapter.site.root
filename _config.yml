@@ -20,6 +20,9 @@ email: your-email@example.com
 # site avatar
 avatar: /assets/images/avatar.jpg
 
+theme_settings:
+   favicon: favicon.png 
+
 # footer text
 footer_text: The Zeitgeist Movement
 
