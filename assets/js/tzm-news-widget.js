@@ -13,7 +13,7 @@ var _tzm_news_widget = function () {
 
     let news = [];
     let loadedNews = false;
-    let baseNewsUrl = 'https://news.tzm.community/';
+    let baseNewsUrl = 'https://tzm.community/';
 
     let config = {
         maxEntries: 10,// Max entries to show
@@ -28,7 +28,7 @@ var _tzm_news_widget = function () {
     };
 
     const getTzmNews = function (force = false) {
-        const messagesUrl = baseNewsUrl + 'messages.json'; // https://news.tzm.community/messages.json
+        const messagesUrl = baseNewsUrl + 'messages.json'; // https://tzm.community/messages.json
 
         if (news.length > 0 && false === force) {
             console.log("Returning the existing news");
@@ -166,7 +166,7 @@ var _tzm_news_widget = function () {
 
     };
 
-    // e.g https://news.tzm.community/2019/11/07/news.html
+    // e.g https://tzm.community/2019/11/07/news.html
     const returnDirectNewsLink = function (newsEntry) {
         let date = new Date(newsEntry.timestamp);
         return `${baseNewsUrl}${date.getUTCFullYear()}/${addZ(date.getUTCMonth() + 1)}/${addZ(date.getUTCDate())}/news.html`;
