@@ -1,490 +1,509 @@
 ---
 
- layout: note 
+layout: note
 
-title: Open assemblies list date: 20201031 
+title: Open assemblies list 
+
+date: 20201231
 
 ---
 
-\*The New Human Rights Movement (TZM+RBE+...)  Motherboard   
+_The New Human Rights Movement (TZM+RBE+...) Motherboard
 
 KEY WORK LINKS of The New Human Right Movement (TZM)
 
-<https://board.net/p/NHRM>(TZM)*work*links
+<https://board.net/p/NHRM>(TZM)_work_links
 
 ## INSTRUCTIONS TO CREATE A NEW NOTEPAD
 
-1. 1. To create a new meeting pad click here <https://board.net/>  and start a new pad by entering the following appropriate title and filling in the date and platform
+1. To create a new meeting pad click here <https://board.net/> and start a new pad by entering the following appropriate title and filling in the date and platform
 
-        TZM*Global*[Wednesday/Satu]*[month]*[year]                                                             
+   TZM_Global_[Wednesday/Satu]*[month]*[year]
+2. Copy paste the template from here <https://board.net/p/TZM_joined_meeting_template>
+3. Copy and paste the new notepad to the appropriate year and date below
 
-1. 2. Copy paste the template from here <https://board.net/p/TZM>*joined*meeting_template                            
-2. 3. Copy and paste the new notepad to the appropriate year and date below
+### HOW TO hold meetings:
 
-                                                                 
 
-###  HOW TO hold meetings:
+<https://board.net/p/Global>_TZM_Communication_Method
 
-    <https://board.net/p/Global>*TZM*Communication_Method
-
-                                                                 
-
-                                                                 
 
 LINKS TO ASSEMBLY NOTES/RECORDINGS(when available are usually uploaded to archive.org)
 
 ### 2009
 
-    January
 
-    February
+January
 
-    March
+February
 
-    April
+March
 
-    May
+April
 
-    June
+May
 
-    July
+June
 
-    August
+July
 
-    5 September
+August
 
-        Good Vibrations Interviews Peter Joseph & The Venus Project <https://archive.org/details/GoodVibrationsInterviewsPeterJosephAndTheVenusProject9509>
+5 September
 
-    October
+Good Vibrations Interviews Peter Joseph & The Venus Project <https://archive.org/details/GoodVibrationsInterviewsPeterJosephAndTheVenusProject9509>
 
-    November
+October
 
-    December
+November
+
+December
+
 
 ### 2010
 
-    1 January
 
-        First ZM Linguistics Team Meeting <https://archive.org/details/FirstLinguisticTeamMeeting2010-01-16> (There are a massive amount of Linguistic Team Meetings on Archive.org)
+1 January
 
-    February
+First ZM Linguistics Team Meeting <https://archive.org/details/FirstLinguisticTeamMeeting2010-01-16> (There are a massive amount of Linguistic Team Meetings on Archive.org)
 
-    March
+February
 
-    April
+March
 
-    May
+April
 
-    June
+May
 
-    July
+June
 
-    August
+July
 
-    September
+August
 
-    October
+September
 
-    November
+October
 
-    December
+November
+
+December
+
 
 ### 2011
 
-    5 January
 
-        ZMF Release <https://archive.org/details/ZeitgeistMovementInternationalMeeting05.01.2011>
+5 January
 
-    9 March
+ZMF Release <https://archive.org/details/ZeitgeistMovementInternationalMeeting05.01.2011>
 
-        <https://archive.org/details/March92011-InternationalMeetingTheZeitgeistMovement>
+9 March
 
-    2 April
+<https://archive.org/details/March92011-InternationalMeetingTheZeitgeistMovement>
 
-        <https://archive.org/details/ZmDevelopersMeetingApril22011>
+2 April
 
-    10 April
+<https://archive.org/details/ZmDevelopersMeetingApril22011>
 
-        TZM Women's Meeting <https://archive.org/details/WomensTs3Meeting41011>
+10 April
 
-    20 April
+TZM Women's Meeting <https://archive.org/details/WomensTs3Meeting41011>
 
-        TZM Global Radio, host Peter Joseph break with TVP <https://archive.org/details/April20th11-TheZmGlobalRadio-HostPeterJoseph>
+20 April
 
-    26 May
+TZM Global Radio, host Peter Joseph break with TVP <https://archive.org/details/April20th11-TheZmGlobalRadio-HostPeterJoseph>
 
-        <https://archive.org/details/InternationalZeitgeitMeeting255>
+26 May
 
-    31 August
+<https://archive.org/details/InternationalZeitgeitMeeting255>
 
-        <https://archive.org/details/InternationalMeeting31-8-2011>
+31 August
 
-    27 November
+<https://archive.org/details/InternationalMeeting31-8-2011>
 
-        TZM Blog Team Meeting <https://archive.org/details/20111127-TZMBlogTeamMeetingAudioChatArchive>
+27 November
+
+TZM Blog Team Meeting <https://archive.org/details/20111127-TZMBlogTeamMeetingAudioChatArchive>
+
 
 ### 2012
 
-    January
 
-    February
+January
 
-    March
+February
 
-    April
+March
 
-    May
+April
 
-    June
+May
 
-    July
+June
 
-    August
+July
 
-    September
+August
 
-    October
+September
 
-    November
+October
 
-    December
+November
+
+December
+
 
 ### 2013
 
-    17 April
 
-        <https://archive.org/details/ts3>*recording*int*meet*2013*apr*17
+17 April
 
-    31 October
+<https://archive.org/details/ts3_recording_int_meet_2013_apr_17
 
-        <https://archive.org/details/IntMeet>
+31 October
+
+<https://archive.org/details/IntMeet>
+
 
 ### 2014
 
-    January
 
-    26 February
+January
 
-        <https://archive.org/details/TzmIntl.MeetingFeb-262014>
+26 February
 
-    March
+<https://archive.org/details/TzmIntl.MeetingFeb-262014>
 
-    April
+March
 
-    May
+April
 
-    June
+May
 
-    July
+June
 
-    August
+July
 
-    September
+August
 
-    October
+September
 
-    November
+October
 
-    December
+November
+
+December
+
 
 ### 2015
 
-    29 April
 
-        <https://archive.org/details/ts3>*recording*15*04*29*22*59_19
+29 April
 
-    29 July
+<https://archive.org/details/ts3_recording_15_04_29_22_59_19>
 
-        <https://archive.org/details/ts3>*recording*15*07*29*23*14*12*201511
+29 July
 
-    30 September
+<https://archive.org/details/ts3_recording_15_07_29_23_14_12_201511>
 
-        <https://archive.org/details/ts3>*recording*15*09*30*23*9*57*high
+30 September
 
-    28 October
+<https://archive.org/details/ts3_recording_15_09_30_23_9_57_high>
 
-        <https://archive.org/details/ts3>*recording*15*10*28*22*15_5
+28 October
 
-    25 November
+<https://archive.org/details/ts3_recording_15_10_28_22_15_5>
 
-        <https://archive.org/details/ts3>*recording*15*11*25*22*5_15
+25 November
 
-    30 December
+<https://archive.org/details/ts3_recording_15_11_25_22_5_15>
 
-        <https://archive.org/details/ts3>*recording*15*12*30*22*12_9
+30 December
+
+<https://archive.org/details/ts3_recording_15_12_30_22_12_9>
+
 
 ### 2016
 
-    27 January
 
-        <https://archive.org/details/ts3>*recording*16*01*27*22*4_42
+27 January
 
-    10 February
+<https://archive.org/details/ts3_recording_16_01_27_22_4_42>
 
-        TZM meets United Earth <https://archive.org/details/ts3>*recording*16*02*10*21*19_54
+10 February
 
-    24 February
+TZM meets United Earth <https://archive.org/details/ts3_recording_16_02_10_21_19_54>
 
-        <https://archive.org/details/ts3>*recording*16*02*24*22*18*12*201603
+24 February
 
-    30 March
+<https://archive.org/details/ts3_recording_16_02_24_22_18_12_201603>
 
-        <https://archive.org/details/ts3>*recording*16*03*30*23*3_47
+30 March
 
-    9 April
+<https://archive.org/details/ts3_recording_16_03_30_23_3_47
 
-        TZM meets SWARM <https://archive.org/details/TZMMeetsSWARMTs3Recording160309153148>
+9 April
 
-    4 May
+TZM meets SWARM <https://archive.org/details/TZMMeetsSWARMTs3Recording160309153148>
 
-        <https://archive.org/details/ts3>*recording*16*05*04*23*7_21
+4 May
 
-    29 June
+<https://archive.org/details/ts3_recording_16_05_04_23_7_21>
 
-        <https://archive.org/details/ts3>*recording*16*06*29*18*9_0
+29 June
 
-    28 December
+<https://archive.org/details/ts3_recording_16_06_29_18_9_0>
 
-        <https://archive.org/details/20161228InternationalMeetingTs3Recording>
+28 December
+
+<https://archive.org/details/20161228InternationalMeetingTs3Recording>
+
 
 ### 2017
 
-    January
 
-    February
+January
 
-    March
+February
 
-    April
+March
 
-    May
+April
 
-    June
+May
 
-    July
+June
 
-    August
+July
 
-    September
+August
 
-    October
+September
 
-    November
+October
 
-    December
+November
+
+December
+
 
 ### 2018
 
-    28 February
 
-         <https://archive.org/details/IntMeetFeb282018>
+28 February
 
-    25 July
+ <https://archive.org/details/IntMeetFeb282018>
 
-        <https://news.tzm.community/notes/TZM_25072018.html>
+25 July
 
-    25 August
+<https://news.tzm.community/notes/TZM_25072018.html>
 
-        <https://news.tzm.community/notes/TZM>*global*meeting_25082018.html
+25 August
 
-    29 August
+<https://news.tzm.community/notes/TZM_global_meeting_25082018.html>
 
-        <https://news.tzm.community/notes/TZM>*saturday*29082018.html
+29 August
 
-    22 September
+<https://news.tzm.community/notes/TZM_saturday_29082018.html>
 
-        <https://news.tzm.community/notes/generalmeeting09222018.html>
+22 September
 
-    26 September
+<https://news.tzm.community/notes/generalmeeting09222018.html>
 
-        <https://news.tzm.community/notes/TZM>*wednesday*global*meeting*26092018.html
+26 September
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting26September>
+<https://news.tzm.community/notes/TZM_wednesday_global_meeting_26092018.html>
 
-    29 September
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting26September>
 
-        <https://news.tzm.community/notes/TZM>*global*Sat*29*Sept_2018.html
+29 September
 
-        <https://archive.org/details/TZMInternationalChapterDiscordMeeting09292018>
+<https://news.tzm.community/notes/TZM_global_Sat_29_Sept_2018.html>
 
-    27 October
+<https://archive.org/details/TZMInternationalChapterDiscordMeeting09292018>
 
-        <https://news.tzm.community/notes/TZM>*global*Sat_27102018.html
+27 October
 
-    31 October
+<https://news.tzm.community/notes/TZM_global_Sat_27102018.html>
 
-        <https://news.tzm.community/notes/TZM>*meeting*Oct*Wed*31*10*2018.html
+31 October
 
-        <https://archive.org/details/TZMInternationalChapterMeetingTeamSpeak10312018>
+<https://news.tzm.community/notes/TZM_meeting_Oct_Wed_31_10_2018.html>
 
-    24 November
+<https://archive.org/details/TZMInternationalChapterMeetingTeamSpeak10312018>
 
-        <https://news.tzm.community/notes/TZM>*meeting*Nov*Sat*24*11*2018_discord.html
+24 November
 
-    28 November
+<https://news.tzm.community/notes/TZM_meeting_Nov_Sat_24_11_2018_discord.html>
 
-        <https://news.tzm.community/notes/TZM>*meeting*Nov*Wed*28*11*2018.html
+28 November
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting11282018>
+<https://news.tzm.community/notes/TZM_meeting_Nov_Wed_28_11_2018.html>
 
-        <https://archive.org/details/IntMeetNov292018>
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting11282018>
 
-    26 December
+<https://archive.org/details/IntMeetNov292018>
 
-        <https://news.tzm.community/notes/TZM>*Global*TeamSpeak*Wed*26*Dec*2018.html
+26 December
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting12262018>
+<https://news.tzm.community/notes/TZM_Global_TeamSpeak_Wed_26_Dec_2018.html>
+
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting12262018>
+
 
 ### 2019
 
-    26 January
 
-        <https://board.net/p/TZM>*Global*Discord*Sat*26*January*2019
+26 January
 
-    30 Jaunary
+<https://board.net/p/TZM_Global_Discord_Sat_26_January_2019>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wed*30*January*2019
+30 Jaunary
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting01302019>
+<https://board.net/p/TZM_Global_TeamSpeak_Wed_30_January_2019>
 
-    23 February
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting01302019>
 
-        <https://news.tzm.community/notes/TZM>*Global*Discord*Sat*23*February*2019.html
+23 February
 
-    27 February
+<https://news.tzm.community/notes/TZM_Global_Discord_Sat_23_February_2019.html>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wednesday*27*February*2019
+27 February
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting02272019>
+<https://board.net/p/TZM_Global_TeamSpeak_Wednesday_27_February_2019>
 
-    27 March
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting02272019>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wednesday*27*March*2019
+27 March
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting03272019>
+<https://board.net/p/TZM_Global_TeamSpeak_Wednesday_27_March_2019>
 
-    30 March
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting03272019>
 
-        <https://news.tzm.community/notes/TZM>*Global*Discord*Sat*30*March*2019.html
+30 March
 
-    24 April
+<https://news.tzm.community/notes/TZM_Global_Discord_Sat_30_March_2019.html>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wednesday*24*April*2019
+24 April
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting04242019> 
+<https://board.net/p/TZM_Global_TeamSpeak_Wednesday_24_April_2019>
 
-        <https://archive.org/details/TZMGlobalTeamSpeakWednesday24April2019>
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting04242019> 
 
-    27 April
+<https://archive.org/details/TZMGlobalTeamSpeakWednesday24April2019>
 
-        <https://board.net/p/TZM>*Global*Discord*Saturday*27*April*2019
+27 April
 
-        <https://board.net/p/TZM>*Espanol***27**4___2019
+<https://board.net/p/TZM_Global_Discord_Saturday_27_April_2019>
 
-        <https://board.net/p/Protocolo>*de*Comunicacion*NMDH*(MZ)
+<https://board.net/p/TZM_Espanol___27__4___2019>
 
-    25 May
+<https://board.net/p/Protocolo>_de_Comunicacion_NMDH_(MZ)
 
-        <https://board.net/p/TZM>*Global*Discord*Sat*25*May*2019
+25 May
 
-        <https://board.net/p/TZM>*lengua*hispana_**Sabado***25***Mayo**2019
+<https://board.net/p/TZM_Global_Discord_Sat_25_May_2019>
 
-    29 May
+<https://board.net/p/TZM_lengua_hispana___Sabado___25___Mayo__2019>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wednesday*29*May*2019
+29 May
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting05292019>
+<https://board.net/p/TZM_Global_TeamSpeak_Wednesday_29_May_2019>
 
-    26 June
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting05292019>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wednesday*26*June*2019
+26 June
 
-        <https://archive.org/details/tzminternationalteamspeakmeeting06262019>
+<https://board.net/p/TZM_Global_TeamSpeak_Wednesday_26_June_2019>
 
-    29 June
+<https://archive.org/details/tzminternationalteamspeakmeeting06262019>
 
-        <https://board.net/p/TZM>*Global*Discord*Saturday*29*June*2019
+29 June
 
-    27 July
+<https://board.net/p/TZM_Global_Discord_Saturday_29_June_2019>
 
-        <https://board.net/p/TZM>*Global*Discord*Saturday*27*July*2019
+27 July
 
-    31 July
+<https://board.net/p/TZM_Global_Discord_Saturday_27_July_2019>
 
-        <https://board.net/p/TZM>*Global*TeamSpeak*Wednesday*31*July*2019
+31 July
 
-        <https://archive.org/details/TZMInternationalTeamSpeakMeeting07312019>
+<https://board.net/p/TZM_Global_TeamSpeak_Wednesday_31_July_2019>
 
-        <https://archive.org/details/tzmmeetingnotesjuly2019>
+<https://archive.org/details/TZMInternationalTeamSpeakMeeting07312019>
 
-    28 August
+<https://archive.org/details/tzmmeetingnotesjuly2019>
 
-        <https://board.net/p/Global>*TeamSpeak*Wednesday*28*August_2019
+28 August
 
-    31 August
+<https://board.net/p/Global>_TeamSpeak_Wednesday_28_August_2019>
 
-        <https://board.net/p/TZM>*Global*Discord*Saturday*31*August*_2019 
+31 August
 
-        September
+<https://board.net/p/TZM_Global_Discord_Saturday_31_August__2019>
 
-        <https://board.net/p/TZM>*Global*meetings*September*2019
+September
 
-        October
+<https://board.net/p/TZM_Global_meetings_September_2019>
 
-        <https://board.net/p/TZM>*Global*meetings*October*2019
+October
 
-        November
+<https://board.net/p/TZM_Global_meetings_October_2019>
 
-        <https://board.net/p/TZM>*Global*meetings*November*2019
+November
 
-        December
+<https://board.net/p/TZM_Global_meetings_November_2019>
 
-        <https://board.net/p/TZM>*Global*meetings*December*2019
+December
 
-                                                                 
+<https://board.net/p/TZM_Global_meetings_December_2019>
+
 
 ### 2020
 
-        January
 
-        <https://news.tzm.community/notes/TZM>*Global*January_2020.html
+January
 
-        February
+<https://news.tzm.community/notes/TZM_Global_January_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*February_2020.html
+February
 
-        March
+<https://news.tzm.community/notes/TZM_Global_February_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*March_2020.html
+March
 
-        April
+<https://news.tzm.community/notes/TZM_Global_March_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*April_2020.html
+April
 
-        May
+<https://news.tzm.community/notes/TZM_Global_April_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*May_2020.html
+May
 
-        June
+<https://news.tzm.community/notes/TZM_Global_May_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*June_2020.html
+June
 
-        July
+<https://news.tzm.community/notes/TZM_Global_June_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*July_2020.html
+July
 
-        August
+<https://news.tzm.community/notes/TZM_Global_July_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*August_2020.html.html
+August
 
-        September
+<https://news.tzm.community/notes/TZM_Global_August_2020.html.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*Wednesday9*September*2020.html
+September
 
-        <https://news.tzm.community/notes/TZM>*Global*Saturday26*September*2020.html
+<https://news.tzm.community/notes/TZM_Global_Wednesday9_September_2020.html>
 
-        October
+<https://news.tzm.community/notes/TZM_Global_Saturday26_September_2020.html>
 
-        <https://news.tzm.community/notes/TZM>*Global*Wednesday14*October*2020.html
+October
 
-        <https://yopad.eu/p/TZM>*Global*Saturday31*October*2020
+<https://news.tzm.community/notes/TZM_Global_Wednesday14_October_2020.html>
+
+<https://yopad.eu/p/TZM_Global_Saturday31_October_2020>
+
