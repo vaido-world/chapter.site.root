@@ -241,7 +241,7 @@ TZM meets United Earth <https://archive.org/details/ts3_recording_16_02_10_21_19
 
 30 March
 
-<https://archive.org/details/ts3_recording_16_03_30_23_3_47
+<https://archive.org/details/ts3_recording_16_03_30_23_3_47>
 
 9 April
 
@@ -399,7 +399,7 @@ December
 
 <https://board.net/p/TZM_Espanol___27__4___2019>
 
-<https://board.net/p/Protocolo>_de_Comunicacion_NMDH_(MZ)
+<https://board.net/p/Protocolo_de_Comunicacion_NMDH_(MZ)>
 
 25 May
 
@@ -437,7 +437,7 @@ December
 
 28 August
 
-<https://board.net/p/Global>_TeamSpeak_Wednesday_28_August_2019>
+<https://board.net/p/Global_TeamSpeak_Wednesday_28_August_2019>
 
 31 August
 
