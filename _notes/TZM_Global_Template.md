@@ -2,11 +2,11 @@
 
 layout: note
 
-date: 20201210
+date: 20201101
 
 ---
 
-# **TZM meeting Wednesday  December**
+# **TZM meeting [Wednesday/Saturday] [Month]**
 
 **EVERYBODY IS EXPECTED TO CO-CREATE THE NOTES.**
 
