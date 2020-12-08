@@ -6,7 +6,7 @@ date: 20201210
 
 ---
 
-# **TZM meeting Wednesday  December**
+# **TZM meeting Wednesday December**
 
 **EVERYBODY IS EXPECTED TO CO-CREATE THE NOTES.**
 
@@ -20,7 +20,7 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 (each item should have a conclusion added to summary after 20 minutes )
 
-* 
+* Mark Enoch: Project management
 
 
 * 
@@ -45,7 +45,7 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 ## **PROGRESS REPORTS** (SUMMARIZE YOUR RECENT WORK)
 
-* 
+* Mark Enoch: I have distributed a few hundred more TZMSustainableChristmas pamphlets. I have been sharing chain messages to spark the transition on many comments sections of youtube videos. I still say: "Enjoy a shared world" instead of "bye" to almost everyone. I have friends that are sharing the TZMSustainableChristmas digital pamphlet with groups and friends. A friend has agreed to help me with the TZMSustainable Christmas stand. I am 2/3 finished with the guide to prosocializing: how to single handedly get a whole municipality to use sharebay.org.
 * 
 
 ## **INDIVIDUAL TASKS to finish before next assembly** (ASSIGN NAME OF PERSON RESPONSIBLE)
