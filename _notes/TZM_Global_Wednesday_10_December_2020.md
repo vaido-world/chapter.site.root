@@ -67,6 +67,19 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 ## **LINKS**
 
+Similar movements, projects
+
+<https://changingtheworldiseasy.com/to-what/whats-the-resource-based-gift-economy-rbge/>\
+<https://discord.gg/Jw2T7Ue>\
+Game B  
+
+Rebel Wisdom <https://discord.gg/GmHfCB8t32>\
+\
+Food bank I worked at to save food in New Zealand:\
+<https://goeco.org.nz/portfolio/kaivolution/>\
+\
+<HTTPS://www.covid-19list.com>
+
 ## **CHAT and OTHER COMMENTS**
 
 ## 
