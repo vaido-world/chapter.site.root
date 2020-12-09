@@ -75,10 +75,12 @@ Game B
 
 Rebel Wisdom <https://discord.gg/GmHfCB8t32>\
 \
-Food bank I worked at to save food in New Zealand:\
+Food bank I volunteered at to save food in New Zealand:\
 <https://goeco.org.nz/portfolio/kaivolution/>\
 \
-<HTTPS://www.covid-19list.com>
+<HTTPS://www.covid-19list.com>\
+\
+Www.freefairandalive.org
 
 ## **CHAT and OTHER COMMENTS**
 
