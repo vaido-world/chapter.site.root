@@ -28,6 +28,9 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 * Sean Z.O Tha Lone Wolf
 * Mark Enoch
 * Magni and Boudicca
+* kryptuskamo
+* Niel
+* Vicenzo
 
 ## **SPEAKERS CUE**  (EACH SPEAKER GETS 2 MIN)  add your name to the bottom of the list, strike through when you have spoken
 
