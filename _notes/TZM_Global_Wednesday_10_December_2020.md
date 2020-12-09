@@ -47,7 +47,7 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 ## **PROGRESS REPORTS** (SUMMARIZE YOUR RECENT WORK)
 
 * Mark Enoch: I have distributed a few hundred more TZMSustainableChristmas pamphlets. I have been sharing chain messages to spark the transition on many comments sections of youtube videos. I still say: "Enjoy a shared world" instead of "bye" to almost everyone. I have friends that are sharing the TZMSustainableChristmas digital pamphlet with groups and friends. A friend has agreed to help me with the TZMSustainable Christmas stand. I have finished the guide to prosocializing: how to single handedly get a whole municipality to use sharebay.org.
-* ZO Lone wolf: I did a food rescue run yesterday. There was a  lot of food redistributed to the people. I have been writing new songs that are sounding powerful. I have had over a dozen talks with people talking about the Train Of Thought. I'll be filling in the open access economy index with New Zealand's connections. 
+* ZO Lone wolf (Sean): I did a food rescue run yesterday. There was a  lot of food redistributed to the people. I have been writing new songs that are sounding powerful. I have had over a dozen talks with people talking about the Train Of Thought. I'll be filling in the open access economy index with New Zealand's connections. 
 * Vicenzo made a phenomenal directory of mutual aid and free collaboration networks. <https://www.covid-19list.com/knowledge-base/mutual-aid-volunteer-groups>
 
 ## **INDIVIDUAL TASKS to finish before next assembly** (ASSIGN NAME OF PERSON RESPONSIBLE)
@@ -86,6 +86,16 @@ Food bank I volunteered at to save food in New Zealand:\
 Www.freefairandalive.org\
 \
 <https://globalregeneration.typeform.com/to/G8TDYr>\
+<https://kissthegroundmovie.com/>\
+<https://www.youtube.com/watch?v=B2kE_k7iHDw>\
+\
+<https://www.freefairandalive.org/>\
+Eatforum.org
+
+Www.Designscience.studio
+
+Www.re-alliance.org\
+\
 <https://www.youtube.com/watch?v=B2kE_k7iHDw>
 
 ## **CHAT and OTHER COMMENTS**
