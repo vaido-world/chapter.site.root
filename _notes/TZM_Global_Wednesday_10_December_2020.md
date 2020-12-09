@@ -44,7 +44,7 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 ## **PROGRESS REPORTS** (SUMMARIZE YOUR RECENT WORK)
 
 * Mark Enoch: I have distributed a few hundred more TZMSustainableChristmas pamphlets. I have been sharing chain messages to spark the transition on many comments sections of youtube videos. I still say: "Enjoy a shared world" instead of "bye" to almost everyone. I have friends that are sharing the TZMSustainableChristmas digital pamphlet with groups and friends. A friend has agreed to help me with the TZMSustainable Christmas stand. I am 2/3 finished with the guide to prosocializing: how to single handedly get a whole municipality to use sharebay.org.
-* I did a food rescue run yesterday. There was a  lot of food redistributed to the people. I have been writing new songs that are sounding powerful. I have had over a dozen talks with people talking about the Train Of Thought. 
+* I did a food rescue run yesterday. There was a  lot of food redistributed to the people. I have been writing new songs that are sounding powerful. I have had over a dozen talks with people talking about the Train Of Thought. I'll be filling in the open access economy index with New Zealand's connections. 
 
 ## **INDIVIDUAL TASKS to finish before next assembly** (ASSIGN NAME OF PERSON RESPONSIBLE)
 
