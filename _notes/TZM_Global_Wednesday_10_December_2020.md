@@ -47,8 +47,9 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 ## **PROGRESS REPORTS** (SUMMARIZE YOUR RECENT WORK)
 
 * Mark Enoch: I have distributed a few hundred more TZMSustainableChristmas pamphlets. I have been sharing chain messages to spark the transition on many comments sections of youtube videos. I still say: "Enjoy a shared world" instead of "bye" to almost everyone. I have friends that are sharing the TZMSustainableChristmas digital pamphlet with groups and friends. A friend has agreed to help me with the TZMSustainable Christmas stand. I have finished the guide to prosocializing: how to single handedly get a whole municipality to use sharebay.org.
-* ZO Lone wolf (Sean): I did a food rescue run yesterday. There was a  lot of food redistributed to the people. I have been writing new songs that are sounding powerful. I have had over a dozen talks with people talking about the Train Of Thought. I'll be filling in the open access economy index with New Zealand's connections. 
+* ZO Lone wolf (Sean): I did a food rescue run yesterday. There was a lot of food redistributed to the people. I have been writing new songs that are sounding powerful. I have had over a dozen talks with people talking about the Train Of Thought. I'll be filling in the open access economy index with New Zealand's connections.
 * Vicenzo made a phenomenal directory of mutual aid and free collaboration networks. <https://www.covid-19list.com/knowledge-base/mutual-aid-volunteer-groups>
+* Bo
 
 ## **INDIVIDUAL TASKS to finish before next assembly** (ASSIGN NAME OF PERSON RESPONSIBLE)
 
@@ -66,7 +67,12 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 ###### Send resources about sustainable construction/architecture and permaculture/food growing to @Magni+Boudicca#9055
 
+Please invite atleast one other person to the next global open access assembly. FInd the times here\
+<https://board.net/p/Global_TZM_Communication_Method>
+
 ## **HELP WANTED** (put your name)
+
+Help Wanted: Vincenzo is working on a matchmaking platform to catalyze collection action towards climate change and wicked problems by connecting people to opportunities and groups/projects aligned with their passions and values. Currently building off of a site I led with a team of volunteers called www.COVID-19list.com. The focus of the new project called Catalist, is climate and the regenerative economy. I’m looking for other software engineers and designers who want to learn more and potentially contribute! Contact @**vincenzo**#3125 or at www.vincentarena.com
 
 ## **LINKS**
 
@@ -74,7 +80,7 @@ Similar movements, projects
 
 <https://changingtheworldiseasy.com/to-what/whats-the-resource-based-gift-economy-rbge/>\
 <https://discord.gg/Jw2T7Ue>\
-Game B  
+Game B
 
 Rebel Wisdom <https://discord.gg/GmHfCB8t32>\
 \
