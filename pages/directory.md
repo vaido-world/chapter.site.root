@@ -30,7 +30,7 @@ The Zeitgeist Movement [https://www.thezeitgeistmovement.com/](https://www.theze
 - United States [https://www.thezeitgeistmovement.us/](https://www.thezeitgeistmovement.us/)
 - Netherland [https://www.zeitgeistbeweging.nl/](https://www.zeitgeistbeweging.nl/)
 - Ukraine [http://tzmukraine.com.ua/](http://tzmukraine.com.ua/)
-- Malaysia [www.facebook.com/groups/thezeitgeistmovementmalaysia/](www.facebook.com/groups/thezeitgeistmovementmalaysia/)
+- Malaysia [https://www.facebook.com/groups/thezeitgeistmovementmalaysia/](https://www.facebook.com/groups/thezeitgeistmovementmalaysia/)
 
 ### TZM Community Websites
 
