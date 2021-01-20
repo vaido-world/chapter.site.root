@@ -3,7 +3,7 @@ layout: roothome
 bootstrap: true
 
 # title
-postnav_title: Zeitgeist Movement Community pages
+postnav_title: The Zeitgeist Movement: Community Pages
 
 # second title
 postnav_subtitle: ''
@@ -21,7 +21,7 @@ header_image: "/assets/img/autumn-219972_1280.jpg"
 
 ---
 
-## Welcome to TZM Community!
+## Welcome to the TZM Community!
 
 Here are news, projects, links and community websites we have gathered.
 
