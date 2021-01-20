@@ -32,7 +32,7 @@ Here is a new article on operational model [https://kotocoop.org/about/model/](h
 
 Check out news at [https://kotocoop.org](https://kotocoop.org)
 
-<img src="https://kotocoop.org/uploads/2018/03/30/drawing.png" />
+<img src="https://kotocoop.org/images/blog/default.svg" />
 
 <!--more-->
 
