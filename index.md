@@ -3,7 +3,7 @@ layout: roothome
 bootstrap: true
 
 # title
-postnav_title: The Zeitgeist Movement: Community Pages
+postnav_title: Zeitgeist Movement Community pages
 
 # second title
 postnav_subtitle: ''
