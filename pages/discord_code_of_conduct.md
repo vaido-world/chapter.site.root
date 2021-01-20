@@ -17,7 +17,7 @@ Thank you for your participation.
 
 **1. Please treat everyone with respect.**
 
-Insulting, derogatory and/or any other disrespectful discourse is inappropriate and unacceptable. 
+> Insulting, derogatory and/or any other disrespectful discourse is inappropriate and unacceptable. 
 
 **2. Please do not engage in personal attacks/Ad Hominem.**
 
