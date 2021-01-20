@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TZM Discord Code of conduct
+title: Code of Conduct
 permalink: /discord_code_of_conduct/
 ---
 
