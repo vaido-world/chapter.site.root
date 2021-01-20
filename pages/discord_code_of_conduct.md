@@ -4,7 +4,6 @@ title: Code of Conduct
 permalink: /discord_code_of_conduct/
 ---
 
- 
 ## **DEAR FELLOW CITIZEN OF THE WORLD**
 
 We welcome you to The Zeitgeist Movement, a worldwide grassroots sustainability advocacy organization for global social change. Your  participation and everyone else’s is required to be a part of the world’s largest social change ever commenced in history. It is the goal of this movement to bring light to a new perspective, a new train of thought as well as bringing the best knowledge of living more sustainably and in harmony with each other and the rest of nature.
@@ -105,4 +104,4 @@ The Zeitgeist Movement: Defined – https://www.thezeitgeistmovement.com/wp-cont
 
 The Zeitgeist Movement: Activist Guide – https://tzm.community/activism/
 
-### **Version 1.0** Released 27th Nov 2020
+#### **Version 1.0** Released 27th Nov 2020
