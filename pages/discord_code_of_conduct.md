@@ -4,6 +4,7 @@ title: Code of Conduct
 permalink: /discord_code_of_conduct/
 ---
 
+ 
 ## **DEAR FELLOW CITIZEN OF THE WORLD**
 
 We welcome you to The Zeitgeist Movement, a worldwide grassroots sustainability advocacy organization for global social change. Your  participation and everyone else’s is required to be a part of the world’s largest social change ever commenced in history. It is the goal of this movement to bring light to a new perspective, a new train of thought as well as bringing the best knowledge of living more sustainably and in harmony with each other and the rest of nature.
@@ -21,20 +22,20 @@ Thank you for your participation.
 
 **2. Please do not engage in personal attacks/Ad Hominem.**
 
-An Ad Hominem is arguing with and/or attacking the person instead of addressing the topic in case it is not about the person. Try not to respond to such attacks, except to politely expose the situation and redirect the discussion to the topic.
+> An Ad Hominem is arguing with and/or attacking the person instead of addressing the topic in case it is not about the person. Try not to respond to such attacks, except to politely expose the situation and redirect the discussion to the topic.
 Threats are not allowed, whether towards individuals, groups or the community as a whole. Threats are disrespectful and utterly against the train of thought of TZM
 
 **3. Respect the specific task of the activity.**
 
-Participate with the correct intentions for a certain project, task, assembly, content or anything in the movement. While the movement’s activity is inclusive for all, do not burden, distract, be disrespectful or problematic during that activity.
+> Participate with the correct intentions for a certain project, task, assembly, content or anything in the movement. While the movement’s activity is inclusive for all, do not burden, distract, be disrespectful or problematic during that activity.
 
 **4. Remember and uphold the Code of Conduct.**
 
-It is everyones and your responsibility to uphold and inform others participating within TZM our Code of Conduct to protect yourself, others and the integrity of TZM. It cannot be done alone and therefore everyone is required to do this.
+> It is everyones and your responsibility to uphold and inform others participating within TZM our Code of Conduct to protect yourself, others and the integrity of TZM. It cannot be done alone and therefore everyone is required to do this.
 
 **5. Make differences into strengths.**
 
-Instead on fixing all the things that you do not agree with another person, focus on resolving issues and learning from mistakes. Make the community larger. Collaboration instead of competition.
+> Instead on fixing all the things that you do not agree with another person, focus on resolving issues and learning from mistakes. Make the community larger. Collaboration instead of competition.
 
 ## **CODE OF ETHICS & COMMUNITY ENVIRONMENT**
 
