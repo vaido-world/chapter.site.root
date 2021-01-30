@@ -85,7 +85,9 @@ Please fill out and ask others to fill out <https://docs.google.com/forms/d/1_Jq
 
 <https://cloud.tzm.community/index.php/login>
 
-<https://forum.zeitgeistbeweging.nl/>
+<https://forum.zeitgeistbeweging.nl/>\
+\
+<https://www.youtube.com/watch?v=GvU0xlmIpt0>
 
 ## **CHAT and OTHER COMMENTS**
 
