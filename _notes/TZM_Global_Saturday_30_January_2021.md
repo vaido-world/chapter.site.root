@@ -27,9 +27,12 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 ## **ATTENDEES** (ADD YOUR NAME)
 
-* 
-* 
-* 
+* Z O Tha Lone WOlf (Sean)
+* Mark Enochea
+* Kees
+* Der Link
+* Riku
+* Midnight Mechanic
 
 ## **SPEAKERS CUE**  (EACH SPEAKER GETS 2 MIN)  add your name to the bottom of the list, strike through when you have spoken
 
@@ -45,8 +48,8 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 ## **PROGRESS REPORTS** (SUMMARIZE YOUR RECENT WORK)
 
-* 
-* 
+* Our progress report is maintained in our blog, [here](<https://www.zeitgeistbeweging.nl/de-zeitgeistbeweging/blog/20210202-chapter-meeting>) is our (TZM NL) progress report. It's in Dutch, but Google Translate does a good job in translating it.
+* Mark Enoch: Still working with the municipal library for it to become a Resource Bank. I am also organizing the open access assembly tomorrow in Spanish. We are learning a new group decision tool called nabú. 
 
 ## **INDIVIDUAL TASKS to finish before next assembly** (ASSIGN NAME OF PERSON RESPONSIBLE)
 
@@ -64,7 +67,9 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 ## **HELP WANTED** (put your name)
 
-## **LINKS**
+## **LINKS\
+**\
+<https://openaccesseconomy.org/doku.php?id=resource_banks>
 
 ## **CHAT and OTHER COMMENTS**
 
