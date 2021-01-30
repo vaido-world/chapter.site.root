@@ -58,6 +58,7 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 * TZM Sweden has translated more work from the Code of Conduct to some other material in the Swedish language. The TZM Activist Guide is also being released in Swedish today and is being released on the birthday and memory of Björne Rova, a TZM activist from Sweden that passed away in late 2019 that also did most translations for TZM Sweden from 2008 - 2019.
 * TZM Community Pages is getting being worked on further the next coming days and weeks.
 * Sean - Been working on some new music. I have one song in particular that has impact on a rallying level. Powerful. I will share with you all to listen to but otherwise it will be on my next release. I Had some good talks with people.
+* Riku - Wrote and recorded a demo of an Iron Maiden inspired song about human's potential and the chaos and order regarding to that. My focus is on a band right now, studio recordings might happen much later. 
 
 ## **INDIVIDUAL TASKS to finish before next assembly** (ASSIGN NAME OF PERSON RESPONSIBLE)
 
@@ -71,13 +72,16 @@ Link to **all the MEETING NOTES** and template to create new ones:     <http
 
 \--------------
 
+Mark Enoch: Prepare the call to action
+
 ## **GROUP TASKS for everyone to complete before next assembly**
 
 Please fill out and ask others to fill out <https://docs.google.com/forms/d/1_JqHuaWyk3JJ1nNw17F7bzRXXMAPIB9FHWA_WFisjOI/>
 
 ## **HELP WANTED** (put your name)
 
-* Need more Norwegian speakers for help ( TZM Norway)
+* Need more Norwegian speakers for help ( TZM Norway)\
+  <https://www.facebook.com/tzmnorway>
 
 ## **LINKS**
 
